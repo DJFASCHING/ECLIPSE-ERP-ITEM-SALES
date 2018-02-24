@@ -1,0 +1,2602 @@
+Item Sales Detail by Product for 01/01/2011 to 02/02/2011                       Page:^####
+Branches : ALL
+Include Credits - Include Direct Shpmts - Exclude Misc Charges
+Select Sales By : Bill-To Customer
+Primary Sort : Product ; Secondary Sort : 
+Detail Level : Product
+Selecting Bill-To Customer: ANT ELECTRIC
+Product Description................          Qty           Sales         COGS GP      GP% 
+3M 8882-750/F HIGH GEL                         4           87.84           32.80     37.3 
+
+     Product: 55699                            4           87.84           32.80     37.3 
+
+3M MV10-10FBX 12-10 INS FORK TERM             50           24.94            6.04     24.2 
+
+     Product: 817                             50           24.94            6.04     24.2 
+
+3M R/Y-JUG RED/YEL CONN                    1,000           76.80           32.81     42.7 
+
+     Product: 849                          1,000           76.80           32.81     42.7 
+
+APP 8456R 4-IN SQR 3/4 SWIV HGR CVR            6           85.62           18.48     21.6 
+
+     Product: 1355                             6           85.62           18.48     21.6 
+
+APP FS175 1G MALL FS BOX                       2           36.35            8.81     24.2 
+
+     Product: 1451                             2           36.35            8.81     24.2 
+
+ARL 3838AST 1/2 DPLX FLEX CBL CONN            50           68.99           10.55     15.3 
+
+     Product: 1656                            50           68.99           10.55     15.3 
+
+ARL 38AST 1/2 INS MC CONN                    100           59.00            9.03     15.3 
+
+     Product: 1659                           100           59.00            9.03     15.3 
+
+ARL 4010AST SNAP-IN CABLE CONN               100           58.00            8.03     13.8 
+
+     Product: 24156                          100           58.00            8.03     13.8 
+
+ARL 40AST SNAP-IN CABLE CONN                 100           59.00            9.03     15.3 
+
+     Product: 1668                           100           59.00            9.03     15.3 
+
+ARL 8404 MC-BX OFFSET THRT OPEN               10           29.37            7.29     24.8 
+
+     Product: 34092                           10           29.37            7.29     24.8 
+
+ARL 841 3/8-IN NMC CONN                       12            3.60            0.96     26.7 
+
+     Product: 1727                            12            3.60            0.96     26.7 
+
+ARL 854 1-1/4 90DEG SQZ FLEX CONN              3           27.71            6.72     24.3 
+
+     Product: 1736                             3           27.71            6.72     24.3 
+
+ARL BE1 1 GANG PLASTIC BOX EXTENDER           15           14.88            4.02     27.0 
+
+     Product: 1744                            15           14.88            4.02     27.0 
+
+ARL EMT100 1-IN NM TERMINATOR                 10            2.83            0.62     21.9 
+
+     Product: 1756                            10            2.83            0.62     21.9 
+
+ARL EMT200 2-IN NM TERMINATOR                 12           10.86            2.38     21.9 
+
+     Product: 1759                            12           10.86            2.38     21.9 
+
+ARL EMT300 3-IN NM TERMINATOR                 12           29.66            6.49     21.9 
+
+     Product: 1761                            12           29.66            6.49     21.9 
+
+ARL EMT400 4-IN NM TERMINATOR                 50          185.55           40.60     21.9 
+
+     Product: 1763                            50          185.55           40.60     21.9 
+
+ARL EMT75 3/4-IN NM TERMINATOR                 4            0.32            0.07     21.9 
+
+     Product: 1765                             4            0.32            0.07     21.9 
+
+ARL GF863 1-IN EMT TO FLEX COUP                1            2.67            0.65     24.3 
+
+     Product: 18926                            1            2.67            0.65     24.3 
+
+ARL GF864 1-1/4 EMT TO FLEX CPLG               5           24.66            4.93     20.0 
+
+     Product: 1777                             5           24.66            4.93     20.0 
+
+ARL GL100 1-IN D/C GRD LOCKNUT                 3            5.73            1.42     24.8 
+
+     Product: 1783                             3            5.73            1.42     24.8 
+
+ARL GL150 1-1/2-IN D/C GRD LOCKNUT             1            3.31            0.82     24.8 
+
+     Product: 1785                             1            3.31            0.82     24.8 
+
+ARL L15A 3/8-1 SCW SDL CONN                  100           73.60           19.88     27.0 
+
+     Product: 22657                          100           73.60           19.88     27.0 
+
+ARL NM900 1/2-IN PLS KNOCK OUT SEAL           25            2.71            0.67     24.7 
+
+     Product: 17990                           25            2.71            0.67     24.7 
+
+B-LINE B101-ZN 2H CORNER ANGLE                16           37.13           17.13     46.1 
+
+     Product: 1863                            16           37.13           17.13     46.1 
+
+B-LINE B104-ZN 4H CORNER ANGLE                12           43.97           15.77     35.9 
+
+     Product: 1869                            12           43.97           15.77     35.9 
+
+B-LINE B201-ZN-3/8 SQR WASHER                 50           51.90           16.59     32.0 
+
+     Product: 23946                           50           51.90           16.59     32.0 
+
+B-LINE B2013PA-ZN-2 PLTD COND CLAMP            1            1.77            0.87     49.2 
+
+     Product: 1901                             1            1.77            0.87     49.2 
+
+B-LINE B2015PA-ZN-3 PLTD COND CLMP            45           79.53           29.97     37.7 
+
+     Product: 1903                            45           79.53           29.97     37.7 
+
+B-LINE B2017PA-ZN 4-IN PLT COND CLP           38           85.28           32.14     37.7 
+
+     Product: 1905                            38           85.28           32.14     37.7 
+
+B-LINE B2208PA-ZN-1/2 PLT COND CLMP           49           40.23           12.35     30.7 
+
+     Product: 1914                            49           40.23           12.35     30.7 
+
+B-LINE B2209PA-ZN-3/4 PLT COND CLMP          186          159.58           49.08     30.8 
+
+     Product: 1915                           186          159.58           49.08     30.8 
+
+B-LINE B2210PA-ZN-1 PLTD COND CLMP           210          205.58           67.93     33.0 
+
+     Product: 1918                           210          205.58           67.93     33.0 
+
+B-LINE B2211PA-ZN 1-1/4 PLT CND CLP           51           56.04           20.37     36.3 
+
+     Product: 1919                            51           56.04           20.37     36.3 
+
+B-LINE B2213PA-ZN-2 PLTD COND CLMP            92          130.73           40.90     31.3 
+
+     Product: 1921                            92          130.73           40.90     31.3 
+
+B-LINE B22S-120GLV SLOT CHANNEL              150          220.50           66.24     30.0 
+
+     Product: 1926                           150          220.50           66.24     30.0 
+
+B-LINE B54S-120GLV SLOT CHANNEL               90           96.30           23.91     24.8 
+
+     Product: 1959                            90           96.30           23.91     24.8 
+
+B-LINE BA50 T-BAR BOX HANGER                 900        2,560.95          448.36     17.5 
+
+     Product: 1970                           900        2,560.95          448.36     17.5 
+
+B-LINE BA50E T-BAR BOX HANGER EXT          1,495        1,922.27          328.15     17.1 
+
+     Product: 1969                         1,495        1,922.27          328.15     17.1 
+
+B-LINE BB2-16T ADJ BOX MTG BRKT              100          131.56           20.25     15.4 
+
+     Product: 1973                           100          131.56           20.25     15.4 
+
+B-LINE BB2-24T ADJ BOX MTG BRKT              112          196.52           30.35     15.4 
+
+     Product: 1976                           112          196.52           30.35     15.4 
+
+B-LINE BB4-23 METAL STUD BOX SUPP             25           19.08            3.84     20.1 
+
+     Product: 1978                            25           19.08            3.84     20.1 
+
+B-LINE BB8-16 DRYWALL BOX SUPPORT             26           39.22            4.31     11.0 
+
+     Product: 1979                            26           39.22            4.31     11.0 
+
+B-LINE BH4-PNA PIN DRIVE FASTENER            500          637.25          127.45     20.0 
+
+     Product: 37751                          500          637.25          127.45     20.0 
+
+B-LINE BL1 SUPP CLIP                         100           44.34            3.74      8.4 
+
+     Product: 1990                           100           44.34            3.74      8.4 
+
+B-LINE BL3-12 3/4 PIPE BRACKET               100           20.33            3.17     15.6 
+
+     Product: 1991                           100           20.33            3.17     15.6 
+
+B-LINE BL3-16 1 PIPE BRACKET                 100           22.44            3.52     15.7 
+
+     Product: 1992                           100           22.44            3.52     15.7 
+
+B-LINE BN-4 1/4 PUSH NUT                  20,000        1,600.00          120.00      7.5 
+
+     Product: 1994                        20,000        1,600.00          120.00      7.5 
+
+B-LINE BW-12 COND TO WIRE CLIP               900          176.13           25.40     14.4 
+
+     Product: 1998                           900          176.13           25.40     14.4 
+
+B-LINE BW-16 COND TO WIRE CLIP               600          129.24            7.44      5.8 
+
+     Product: 1999                           600          129.24            7.44      5.8 
+
+B-LINE BW-20 COND TO WIRE CLIP               600          187.92           12.07      6.4 
+
+     Product: 2000                           600          187.92           12.07      6.4 
+
+B-LINE BW-8 COND TO WIRE CLIP                900          151.47           12.69      8.4 
+
+     Product: 2002                           900          151.47           12.69      8.4 
+
+B-LINE BW4 COND TO WIRE CLIP                 200           36.42            1.00      2.7 
+
+     Product: 2001                           200           36.42            1.00      2.7 
+
+B-LINE N224-ZN-1/4 PLTD SPRING NUT            37           26.62            9.44     35.5 
+
+     Product: 2005                            37           26.62            9.44     35.5 
+
+B-LINE N228-ZN-3/8 PLTD SPRING NUT            66           52.78           20.85     39.5 
+
+     Product: 2007                            66           52.78           20.85     39.5 
+
+BOWERS 300-BW BLANK CVR FOR 3-0 BOX            4            3.49            0.96     27.5 
+STL-CTY 24C1-25
+
+     Product: 2052                             4            3.49            0.96     27.5 
+
+BOWERS 4-SDW-3/4 4-IN SQR OUTLET BX           11           12.03            2.67     22.2 
+STL-CTY 52171-3/4
+
+     Product: 2090                            11           12.03            2.67     22.2 
+
+BOWERS 4-SW-1/2 4-IN SQR BOX                  30           19.42            8.39     43.2 
+STL-CTY 52151-1/2
+
+     Product: 2094                            30           19.42            8.39     43.2 
+
+BPORT 102-S 3/4-IN STL LOCKNUT                 4            0.45            0.17     37.8 
+
+     Product: 2166                             4            0.45            0.17     37.8 
+
+BPORT 106-S 2-IN STL LOCKNUT                   4            2.27            0.88     38.8 
+
+     Product: 2170                             4            2.27            0.88     38.8 
+
+BPORT 230-DC2 1/2 S/SCR CR EMT CONN          195           25.87            5.20     20.1 
+
+     Product: 2191                           195           25.87            5.20     20.1 
+
+BPORT 231-DC2 3/4 S/SCR CR EMT CONN          105           24.17            4.83     20.0 
+
+     Product: 2193                           105           24.17            4.83     20.0 
+
+BPORT 232-DC2 1-IN S/SCR CR EMT CON          100           44.06            8.94     20.3 
+
+     Product: 2195                           100           44.06            8.94     20.3 
+
+BPORT 233-DC2 1-1/4 S/SCR CR EMT               7            5.41            1.08     20.0 
+
+     Product: 2197                             7            5.41            1.08     20.0 
+
+BPORT 234-DC2 1-1/2 S/SCR EMT CONN             6            6.29            1.26     20.0 
+
+     Product: 2200                             6            6.29            1.26     20.0 
+
+BPORT 235-DC2 2-IN S/SCR CR EMT CON           11           15.43            3.08     20.0 
+
+     Product: 2202                            11           15.43            3.08     20.0 
+
+BPORT 237-DC2 3-IN S/SCR CR EMT CON            4           15.35            3.07     20.0 
+
+     Product: 2206                             4           15.35            3.07     20.0 
+
+BPORT 240-DC 1/2 S/SCR CR EMT CPLG           130           19.87            3.98     20.0 
+
+     Product: 2210                           130           19.87            3.98     20.0 
+
+BPORT 241-DC 3/4 S/SCR CR EMT CPLG           210           51.06           10.21     20.0 
+
+     Product: 2211                           210           51.06           10.21     20.0 
+
+BPORT 242-DC 1-IN S/SCR CR EMT CPLG          285          124.87           24.97     20.0 
+
+     Product: 2213                           285          124.87           24.97     20.0 
+
+BPORT 243-DC 1-1/4 S/SCR EMT CPLG             74           56.80           11.36     20.0 
+
+     Product: 2214                            74           56.80           11.36     20.0 
+
+BPORT 244-DC 1-1/2 S/SCR CR EMT CPL           15           16.35            3.27     20.0 
+
+     Product: 2215                            15           16.35            3.27     20.0 
+
+BPORT 245-DC 2-IN S/SCR CR EMT CPLG           71          103.23           20.65     20.0 
+
+     Product: 2216                            71          103.23           20.65     20.0 
+
+BPORT 247-DC 3-IN S/SCR CR EMT CPLG           18           57.22           11.51     20.1 
+
+     Product: 2218                            18           57.22           11.51     20.1 
+
+BPORT 249-DC 4-IN S/SCR CR EMT CPLG           18           76.39           15.39     20.1 
+
+     Product: 2220                            18           76.39           15.39     20.1 
+
+BPORT 250-DC2 1/2 COMP EMT CONN               10            2.30            0.46     20.0 
+
+     Product: 2222                            10            2.30            0.46     20.0 
+
+BPORT 250-RT2 1/2-IN R/T COMP CONN             5            2.64            0.53     20.1 
+
+     Product: 2223                             5            2.64            0.53     20.1 
+
+BPORT 251-DC2 3/4 COMP EMT CONN                8            3.27            0.66     20.2 
+
+     Product: 2224                             8            3.27            0.66     20.2 
+
+BPORT 251-RT2 3/4-IN R/T COMP CONN            22           16.50            3.30     20.0 
+
+     Product: 2226                            22           16.50            3.30     20.0 
+
+BPORT 252-DC2 1-IN COMP EMT CONN               6            4.03            0.81     20.1 
+
+     Product: 2227                             6            4.03            0.81     20.1 
+
+BPORT 253-DC2 1-1/4 COMP EMT CONN              6            6.69            1.35     20.2 
+
+     Product: 2230                             6            6.69            1.35     20.2 
+
+BPORT 255-DC2 2-IN COMP EMT CONN               5           11.59            2.33     20.1 
+
+     Product: 2233                             5           11.59            2.33     20.1 
+
+BPORT 255-RT2 2-IN R/T COMP CONN               9           33.96            6.79     20.0 
+
+     Product: 38110                            9           33.96            6.79     20.0 
+
+BPORT 260-DC 1/2 COMP EMT CPLG                10            3.63            0.73     20.1 
+
+     Product: 2241                            10            3.63            0.73     20.1 
+
+BPORT 261-DC 3/4 COMP EMT CPLG                18            8.38            1.67     19.9 
+
+     Product: 2243                            18            8.38            1.67     19.9 
+
+BPORT 261-RT 3/4-IN R/T COMP CPLG             25           19.53            3.90     20.0 
+
+     Product: 2244                            25           19.53            3.90     20.0 
+
+BPORT 263-DC 1-1/4 COMP EMT CPLG              16           21.51            4.96     23.1 
+
+     Product: 2247                            16           21.51            4.96     23.1 
+
+BPORT 265-DC 2-IN COMP EMT CPLG                8           20.56            4.11     20.0 
+
+     Product: 2249                             8           20.56            4.11     20.0 
+
+BPORT 265-RT 2-IN COMP CPLG                   20           74.18           14.84     20.0 
+
+     Product: 38111                           20           74.18           14.84     20.0 
+
+BPORT 323 1-IN 105D PLASTIC BUSHING            4            0.46            0.14     30.4 
+
+     Product: 2258                             4            0.46            0.14     30.4 
+
+BPORT 324 1-1/4 105D PLASTIC BUSHIN           15            2.25            0.85     37.8 
+
+     Product: 2259                            15            2.25            0.85     37.8 
+
+BPORT 326 2-IN 105D PLASTIC BUSHING           13            4.61            1.48     32.1 
+
+     Product: 2261                            13            4.61            1.48     32.1 
+
+BPORT 328 3-IN 105D PLASTIC BUSHING            4            3.19            1.00     31.3 
+
+     Product: 2263                             4            3.19            1.00     31.3 
+
+BPORT 4361-DC 3/4 LT/EMT CPLG                  2           11.02            2.67     24.2 
+
+     Product: 3974                             2           11.02            2.67     24.2 
+
+BPORT 520-DC2 1/2-IN FLEX CONN               845          186.60           29.86     16.0 
+
+     Product: 2271                           845          186.60           29.86     16.0 
+
+BPORT 521-DC2 3/4-IN FLEX CONN             1,469          807.95          106.64     13.2 
+
+     Product: 2273                         1,469          807.95          106.64     13.2 
+
+BPORT 522-DC2 1-IN FLEX CONN                 111           98.79           19.72     20.0 
+
+     Product: 2275                           111           98.79           19.72     20.0 
+
+BPORT 523-DC2 1-1/4-IN FLEX CONN             120          254.06           40.66     16.0 
+
+     Product: 2277                           120          254.06           40.66     16.0 
+
+BPORT 530-DC 1/2 SCR-IN FLEX CPLG            162           95.57           24.80     25.9 
+
+     Product: 2280                           162           95.57           24.80     25.9 
+
+BPORT 531-DC 3/4 SCR-IN FLEX CPLG             75           72.57           18.77     25.9 
+
+     Product: 2281                            75           72.57           18.77     25.9 
+
+BPORT 532-DC 1-IN SCR-IN FLEX CPLG            25           42.16           10.91     25.9 
+
+     Product: 2282                            25           42.16           10.91     25.9 
+
+BPORT 535-DC 2-IN SCR-IN FLEX CPLG             3           29.18            7.55     25.9 
+
+     Product: 2285                             3           29.18            7.55     25.9 
+
+BPORT 581-DC 1/2 EMT TO FLEX CPLG             40           37.29            7.47     20.0 
+
+     Product: 2289                            40           37.29            7.47     20.0 
+
+BPORT 582-DC 3/4 EMT TO FLEX CPLG             99          130.87           26.21     20.0 
+
+     Product: 2290                            99          130.87           26.21     20.0 
+
+BPORT 583-DC 1-IN EMT TO FLEX CPLG            73          135.20           27.02     20.0 
+
+     Product: 2291                            73          135.20           27.02     20.0 
+
+BPORT 664-DC2 1-1/4-IN 2SCR SEC CON           10           15.01            4.86     32.4 
+
+     Product: 16825                           10           15.01            4.86     32.4 
+
+BPORT LB-61 1/2-IN LB COND BODY                1            4.08            0.99     24.3 
+
+     Product: 2306                             1            4.08            0.99     24.3 
+
+BPORT LB-62 3/4-IN LB COND BODY                2            9.73            2.36     24.3 
+
+     Product: 2307                             2            9.73            2.36     24.3 
+
+BPORT LB-63 1-IN LB COND BODY                  2           15.59            3.78     24.2 
+
+     Product: 2308                             2           15.59            3.78     24.2 
+
+BPORT T-62 3/4 MALL T COND BODY                1            6.59            1.60     24.3 
+
+     Product: 2326                             1            6.59            1.60     24.3 
+
+C-H BAB2100 100A 2P CB BOLT ON                 1          131.14           21.67     16.5 
+
+     Product: 2794                             1          131.14           21.67     16.5 
+
+C-H BAB3100H 100A 3P CB BOLT ON                1          168.42           37.13     22.0 
+
+     Product: 2809                             1          168.42           37.13     22.0 
+
+C-H BD2020 20A 1P / 20A 1P DPLX CB             1            8.84            2.14     24.2 
+
+     Product: 2813                             1            8.84            2.14     24.2 
+
+C-H BR120 20A 1P PLUG ON CB                    2            7.03            1.41     20.1 
+
+     Product: 2847                             2            7.03            1.41     20.1 
+
+C-H DG321NRB 30A 240V 4SN SW NEMA3R            1           73.17           17.74     24.2 
+
+     Product: 2994                             1           73.17           17.74     24.2 
+
+C-H DG324NGK 200A 240V 4SN SW NEMA1            1          299.75           72.67     24.2 
+
+     Product: 2999                             1          299.75           72.67     24.2 
+
+C-H DH363FGK 100A 600V 3P SW NEMA1             1          311.76           75.58     24.2 
+
+     Product: 3016                             1          311.76           75.58     24.2 
+
+C-H GBK10 10 CIRCUIT GRD BAR                  12           97.66           26.38     27.0 
+
+     Product: 3073                            12           97.66           26.38     27.0 
+
+C-H QL1NPL LOCK DOG "BAB" LOCK OFF             1            8.48            2.29     27.0 
+
+     Product: 3160                             1            8.48            2.29     27.0 
+
+C-H QL1PL CB LOCK PADLOCKABLE                  4           14.74            3.99     27.1 
+
+     Product: 3161                             4           14.74            3.99     27.1 
+
+CADDY 512 T-BAR BOX HANGER                     6           32.03            6.41     20.0 
+
+     Product: 2484                             6           32.03            6.41     20.0 
+
+CADDY 512A ADJUSTABLE T-BAR HANGER             2           17.24            3.45     20.0 
+
+     Product: 2485                             2           17.24            3.45     20.0 
+
+CADDY 512HD HEAVY DUTY BOX HANGER              9           41.17            8.23     20.0 
+
+     Product: 2486                             9           41.17            8.23     20.0 
+
+CADDY 6TIB 3/8 ANGLE BRACKET SUPP             25           17.44            3.49     20.0 
+
+     Product: 2492                            25           17.44            3.49     20.0 
+
+CADDY MPLS DRYWALL BRACKET                    46           58.75           11.75     20.0 
+
+     Product: 2551                            46           58.75           11.75     20.0 
+
+CADDY MPLS2 2G LV DRYWALL BRACKET              1            1.70            0.34     20.0 
+
+     Product: 2552                             1            1.70            0.34     20.0 
+
+CADDY PSF10C 10IN STRUT SUPPORT               10          165.98           33.19     20.0 
+
+     Product: 23207                           10          165.98           33.19     20.0 
+
+CADDY SGB16A SCREW GUN BRACKET                50          108.11           21.62     20.0 
+
+     Product: 21539                           50          108.11           21.62     20.0 
+
+CARLON S288JLN 2X3 BASE SPACER                26           27.91            6.78     24.3 
+
+     Product: 2668                            26           27.91            6.78     24.3 
+
+CAW S075 3/4-IN O/T HOLE SEAL                  1            6.62            3.08     46.5 
+
+     Product: 2709                             1            6.62            3.08     46.5 
+
+CONDUIT 1-1/4 X 18-IN GALV NIPPLE              1           10.69            4.03     37.7 
+
+     Product: 34688                            1           10.69            4.03     37.7 
+
+CONDUIT 2-IN-GAL-15DEG-ELL                     2           36.28           20.85     57.5 
+
+     Product: 13505                            2           36.28           20.85     57.5 
+
+CONDUIT EMT 10FT 1-1/2-IN                     20           20.92            3.20     15.3 
+
+     Product: 153                             20           20.92            3.20     15.3 
+
+CONDUIT EMT 10FT 1-1/4-IN                    820          710.24          103.88     14.6 
+
+     Product: 206                            820          710.24          103.88     14.6 
+
+CONDUIT EMT 10FT 1-IN                      3,210        1,749.19          252.78     14.5 
+
+     Product: 441                          3,210        1,749.19          252.78     14.5 
+
+CONDUIT EMT 10FT 1/2-IN                    1,490          235.22           35.86     15.2 
+
+     Product: 280                          1,490          235.22           35.86     15.2 
+
+CONDUIT EMT 10FT 2-IN                        560          729.63          108.79     14.9 
+
+     Product: 566                            560          729.63          108.79     14.9 
+
+CONDUIT EMT 10FT 3-IN                        150          434.39           47.91     11.0 
+
+     Product: 724                            150          434.39           47.91     11.0 
+
+CONDUIT EMT 10FT 3/4-IN                    3,180        1,003.54          144.50     14.4 
+
+     Product: 678                          3,180        1,003.54          144.50     14.4 
+
+CONDUIT EMT 10FT 4-IN                        160          659.03          101.71     15.4 
+
+     Product: 942                            160          659.03          101.71     15.4 
+
+CONDUIT EMT ELB 11DEG 2-IN                     2           11.43            3.38     29.6 
+
+     Product: 567                              2           11.43            3.38     29.6 
+
+CONDUIT EMT ELB 15DEG 1-1/2-IN                 2            8.01            2.53     31.6 
+
+     Product: 155                              2            8.01            2.53     31.6 
+
+CONDUIT EMT ELB 15DEG 1-1/4-IN                 2            6.61            2.24     33.9 
+
+     Product: 208                              2            6.61            2.24     33.9 
+
+CONDUIT EMT ELB 22DEG 1-1/4-IN                 2            6.95            2.44     35.1 
+
+     Product: 209                              2            6.95            2.44     35.1 
+
+CONDUIT EMT ELB 22DEG 2-IN                     4           22.86            7.92     34.6 
+
+     Product: 569                              4           22.86            7.92     34.6 
+
+CONDUIT EMT ELB 22DEG 3-IN                     2           40.22           13.02     32.4 
+
+     Product: 727                              2           40.22           13.02     32.4 
+
+CONDUIT EMT ELB 30DEG 1-1/2-IN                 4           16.26            6.10     37.5 
+
+     Product: 157                              4           16.26            6.10     37.5 
+
+CONDUIT EMT ELB 30DEG 2-IN                     4           24.24            8.96     37.0 
+
+     Product: 570                              4           24.24            8.96     37.0 
+
+CONDUIT EMT ELB 45DEG 1-1/4-IN                 3           10.09            4.13     40.9 
+
+     Product: 211                              3           10.09            4.13     40.9 
+
+CONDUIT EMT ELB 45DEG 2-IN                     1            5.65            2.25     39.8 
+
+     Product: 571                              1            5.65            2.25     39.8 
+
+CONDUIT EMT ELB 90DEG 1-1/2-IN                 6           23.07            8.07     35.0 
+
+     Product: 159                              6           23.07            8.07     35.0 
+
+CONDUIT EMT ELB 90DEG 1-1/4-IN                28           96.49           40.80     42.3 
+
+     Product: 212                             28           96.49           40.80     42.3 
+
+CONDUIT EMT ELB 90DEG 2-IN                    27          153.75           62.07     40.4 
+
+     Product: 572                             27          153.75           62.07     40.4 
+
+CONDUIT EMT ELB 90DEG 3-IN                     6          127.01           53.06     41.8 
+
+     Product: 730                              6          127.01           53.06     41.8 
+
+CONDUIT EMT ELB 90DEG 4-IN                     3           98.83           40.53     41.0 
+
+     Product: 949                              3           98.83           40.53     41.0 
+
+CONDUIT FLEX RWA 1-1/4-IN 50C                150          210.56           57.09     27.1 
+
+     Product: 204                            150          210.56           57.09     27.1 
+
+CONDUIT FLEX RWA 1-IN 50C                    300          268.94           48.29     18.0 
+
+     Product: 439                            300          268.94           48.29     18.0 
+
+CONDUIT FLEX RWA 1/2-IN 100C               1,500          507.93           82.23     16.2 
+
+     Product: 277                          1,500          507.93           82.23     16.2 
+
+CONDUIT FLEX RWA 2-IN 25C                    100          240.12           53.19     22.2 
+
+     Product: 564                            100          240.12           53.19     22.2 
+
+CONDUIT FLEX RWA 3/4-IN 100C               1,200          548.03           79.79     14.6 
+
+     Product: 675                          1,200          548.03           79.79     14.6 
+
+CONDUIT FLEX RWS 1-IN 50C                    550          474.65          117.86     24.8 
+
+     Product: 470                            550          474.65          117.86     24.8 
+
+CONDUIT FLEX RWS 1/2-IN 100C               2,100          749.91          131.10     17.5 
+
+     Product: 300                          2,100          749.91          131.10     17.5 
+
+CONDUIT FLEX RWS 3/4-IN 100C               1,200          546.84          101.04     18.5 
+
+     Product: 704                          1,200          546.84          101.04     18.5 
+
+CONDUIT FLEX UA/LT 1-IN GY 400R               25           52.65           16.51     31.4 
+
+     Product: 471                             25           52.65           16.51     31.4 
+
+CONDUIT FLEX UA/LT 1/2-IN GY 500R             45           43.06           13.56     31.5 
+
+     Product: 302                             45           43.06           13.56     31.5 
+
+CONDUIT FLEX UA/LT 2-IN GY 100R                6           20.98            3.65     17.4 
+
+     Product: 615                              6           20.98            3.65     17.4 
+
+CONDUIT FLEX UA/LT 3/4-IN GY 500R             60           73.77           20.56     27.9 
+
+     Product: 705                             60           73.77           20.56     27.9 
+
+CONDUIT GRC 10FT 1-1/4-IN                     10           26.47            6.43     24.3 
+
+     Product: 213                             10           26.47            6.43     24.3 
+
+CONDUIT GRC 10FT 2-IN                         50          202.35           40.68     20.1 
+
+     Product: 573                             50          202.35           40.68     20.1 
+
+CONDUIT GRC 10FT 3-IN                         10           86.77           17.59     20.3 
+
+     Product: 733                             10           86.77           17.59     20.3 
+
+CONDUIT GRC 10FT 3/4-IN                       50           64.00           13.48     21.1 
+
+     Product: 682                             50           64.00           13.48     21.1 
+
+CONDUIT GRC 10FT 4-IN                         10          119.35           23.74     19.9 
+
+     Product: 952                             10          119.35           23.74     19.9 
+
+CONDUIT GRC CPL 1-1/4-IN                       1            1.93            0.93     48.2 
+
+     Product: 217                              1            1.93            0.93     48.2 
+
+CONDUIT GRC CPL 1-IN                           2            3.09            1.49     48.2 
+
+     Product: 448                              2            3.09            1.49     48.2 
+
+CONDUIT GRC CPL 2-IN                           4           12.88            5.51     42.8 
+
+     Product: 579                              4           12.88            5.51     42.8 
+
+CONDUIT GRC CPL 3/4-IN                         4            4.17            2.01     48.2 
+
+     Product: 685                              4            4.17            2.01     48.2 
+
+CONDUIT GRC ELB 90DEG 1-IN                     1            5.55            2.68     48.3 
+
+     Product: 447                              1            5.55            2.68     48.3 
+
+CONDUIT GRC ELB 90DEG 2-IN                     2           24.54            7.81     31.8 
+
+     Product: 577                              2           24.54            7.81     31.8 
+
+CONDUIT GRC NIP 2 X 12-IN                      2           18.72            6.42     34.3 
+
+     Product: 622                              2           18.72            6.42     34.3 
+
+CONDUIT GRC NIP CLOSE 1 X 1-1/2                3            3.61            1.77     49.0 
+
+     Product: 485                              3            3.61            1.77     49.0 
+
+CWD CR15V-BU 125V DPLX RCPT                   12           13.98            4.64     33.2 
+
+     Product: 3588                            12           13.98            4.64     33.2 
+
+CWD CR20V-BU 20A 125V IV DPLX RCP             20           27.14           10.14     37.4 
+
+     Product: 3594                            20           27.14           10.14     37.4 
+
+CWD CS120GY SP 20A COMM SWITCH                 1            1.77            0.39     22.0 
+
+     Product: 34818                            1            1.77            0.39     22.0 
+
+DOTTIE #272 ORN INVERT-A-CAP PAINT             2            7.07            1.55     21.9 
+
+     Product: 39651                            2            7.07            1.55     21.9 
+
+DOTTIE 200MT 2-IN MASKING TAPE                 2            7.26            2.80     38.6 
+
+     Product: 3837                             2            7.26            2.80     38.6 
+
+DOTTIE 200MTBLUE 2X60 MASKING TAPE             1           12.36            3.00     24.3 
+
+     Product: 21161                            1           12.36            3.00     24.3 
+
+DOTTIE 210-2X100 10MIL WRAP TAPE               1            5.49            1.33     24.2 
+
+     Product: 3840                             1            5.49            1.33     24.2 
+
+DOTTIE 2AK ANCHOR KIT W/2-WAY SCR              1            6.29            1.87     29.7 
+
+     Product: 3855                             1            6.29            1.87     29.7 
+
+DOTTIE 360 3/4X60FT PVC TAPE                  79           57.35           17.85     31.1 
+
+     Product: 3882                            79           57.35           17.85     31.1 
+
+DOTTIE 360BLU ELECTRICAL TAPE                  1            1.77            0.43     24.3 
+
+     Product: 27621                            1            1.77            0.43     24.3 
+
+DOTTIE 360RED ELECTRICAL TAPE                  1            1.77            0.43     24.3 
+
+     Product: 27624                            1            1.77            0.43     24.3 
+
+DOTTIE 632-PS PHIL SL MACH SCR KIT             1           12.70            4.06     32.0 
+
+     Product: 3922                             1           12.70            4.06     32.0 
+
+DOTTIE 6502-P 6500FT PULL LINE-PAIL            1           35.46            9.88     27.9 
+
+     Product: 3923                             1           35.46            9.88     27.9 
+
+DOTTIE 68 1/8X6X8 INS PAD                    500          295.00           60.30     20.4 
+
+     Product: 3926                           500          295.00           60.30     20.4 
+
+DOTTIE 832-PS COMBO-HEAD SCR KIT               1           13.73            4.39     32.0 
+
+     Product: 3930                             1           13.73            4.39     32.0 
+
+DOTTIE BATAAACARD AAA BATT 4-PACK              7           17.64           10.22     57.9 
+
+     Product: 52832                            7           17.64           10.22     57.9 
+
+DOTTIE BC100 1-IN AL COND BODY CVR             6            9.06            2.18     24.1 
+
+     Product: 3942                             6            9.06            2.18     24.1 
+
+DOTTIE BC125/150 1-1/4&1-1/2 CVR               4            8.77            2.14     24.4 
+
+     Product: 3943                             4            8.77            2.14     24.4 
+
+DOTTIE BC200 2-IN AL COND BODY CVR             6           23.44            5.69     24.3 
+
+     Product: 3944                             6           23.44            5.69     24.3 
+
+DOTTIE BC50 1/2 AL COND BODY CVR               2            1.66            0.40     24.1 
+
+     Product: 3947                             2            1.66            0.40     24.1 
+
+DOTTIE BC75 3/4 AL COND BODY CVR               7            8.26            2.05     24.8 
+
+     Product: 3948                             7            8.26            2.05     24.8 
+
+DOTTIE BK38 3/8-16 BEAM CLAMP                  6           10.34            2.51     24.3 
+
+     Product: 3951                             6           10.34            2.51     24.3 
+
+DOTTIE C125 1-1/4 AL C COND BODY               1            7.29            2.91     39.9 
+
+     Product: 3964                             1            7.29            2.91     39.9 
+
+DOTTIE C150 1-1/2 AL C COND BODY               1            9.35            3.27     35.0 
+
+     Product: 3965                             1            9.35            3.27     35.0 
+
+DOTTIE C75 3/4 AL C COND BODY                  6           18.36            6.68     36.4 
+
+     Product: 3971                             6           18.36            6.68     36.4 
+
+DOTTIE CN150 1-1/2 COND NIP                    1            1.65            0.52     31.5 
+
+     Product: 3981                             1            1.65            0.52     31.5 
+
+DOTTIE CN50 1/2 COND NIP                       2            0.50            0.16     32.0 
+
+     Product: 3987                             2            0.50            0.16     32.0 
+
+DOTTIE CN75 3/4 COND NIP                       4            1.63            0.51     31.3 
+
+     Product: 3988                             4            1.63            0.51     31.3 
+
+DOTTIE DA-38 3/8 DROP IN ANCHOR              250          183.90           40.22     21.9 
+
+     Product: 4021                           250          183.90           40.22     21.9 
+
+DOTTIE DT-260 2X60YD DUCT TAPE                 6           43.72           10.66     24.4 
+
+     Product: 4047                             6           43.72           10.66     24.4 
+
+DOTTIE DU05 DETECTABLE ORANGE TAPE            -2         -160.22          -38.84     24.2 
+
+     Product: 31378                           -2         -160.22          -38.84     24.2 
+
+DOTTIE DWSBX6114 DRYWALL SCR BOX             300            8.55            2.73     31.9 
+
+     Product: 4064                           300            8.55            2.73     31.9 
+
+DOTTIE FENW14114 FENDER WASHER               400           24.52            7.84     32.0 
+
+     Product: 4117                           400           24.52            7.84     32.0 
+
+DOTTIE FENW38114 FENDER WASHER               100            8.20            2.62     32.0 
+
+     Product: 4120                           100            8.20            2.62     32.0 
+
+DOTTIE FW-10 FLAT STL WASHER                 200            4.23            1.35     31.9 
+
+     Product: 4138                           200            4.23            1.35     31.9 
+
+DOTTIE FW-14 FLAT STL WASHER                 200            5.38            1.72     32.0 
+
+     Product: 4140                           200            5.38            1.72     32.0 
+
+DOTTIE FW-38 FLAT STL WASHER                 400           19.88            6.36     32.0 
+
+     Product: 4143                           400           19.88            6.36     32.0 
+
+DOTTIE GBL100 1-IN INS GRD BUSH                1            2.66            1.15     43.2 
+
+     Product: 4146                             1            2.66            1.15     43.2 
+
+DOTTIE GN100 1-IN NEO GASKET                   2            2.35            0.57     24.3 
+
+     Product: 4157                             2            2.35            0.57     24.3 
+
+DOTTIE GN125/150 1-1/4&1-1/2 GASKET            1            1.76            0.43     24.4 
+
+     Product: 4158                             1            1.76            0.43     24.4 
+
+DOTTIE GN200 2-IN NEO GASKET                   4            7.95            1.95     24.5 
+
+     Product: 4159                             4            7.95            1.95     24.5 
+
+DOTTIE GN50 1/2 NEO CND BODY GASKET            1            0.47            0.12     25.5 
+
+     Product: 4162                             1            0.47            0.12     25.5 
+
+DOTTIE GN75 3/4-IN NEO GASKET                  3            2.82            0.71     25.2 
+
+     Product: 4163                             3            2.82            0.71     25.2 
+
+DOTTIE GP1050 GRD PIGTAIL                    100           46.69           12.61     27.0 
+
+     Product: 4164                           100           46.69           12.61     27.0 
+
+DOTTIE GP650 7-1/2IN GRDING PIGTAIL          275           76.78            7.59      9.9 
+
+     Product: 4166                           275           76.78            7.59      9.9 
+
+DOTTIE HN-1032 STL HEX NUT                   100            2.29            0.73     31.9 
+
+     Product: 4196                           100            2.29            0.73     31.9 
+
+DOTTIE HN-14 STL HEX NUT                   4,200          122.26           39.10     32.0 
+
+     Product: 4198                         4,200          122.26           39.10     32.0 
+
+DOTTIE HN-38 STL HEX NUT                     450           38.04           12.15     31.9 
+
+     Product: 4200                           450           38.04           12.15     31.9 
+
+DOTTIE HN-832 STL HEX NUT                    100            2.16            0.69     31.9 
+
+     Product: 4202                           100            2.16            0.69     31.9 
+
+DOTTIE HW406 2-IN 2H COND STRAP               30           13.95            5.21     37.3 
+
+     Product: 3895                            30           13.95            5.21     37.3 
+
+DOTTIE HW50 1/2-IN 1H COND STRAP             100            7.01            2.62     37.4 
+
+     Product: 4240                           100            7.01            2.62     37.4 
+
+DOTTIE HW75 3/4-IN 1H COND STRAP             100            9.03            3.37     37.3 
+
+     Product: 4241                           100            9.03            3.37     37.3 
+
+DOTTIE KO100 1-IN SNAPIN KO BLANK              2            0.94            0.44     46.8 
+
+     Product: 4281                             2            0.94            0.44     46.8 
+
+DOTTIE KO125 1-1/4 SNAPIN KO BLANK             5            2.98            1.41     47.3 
+
+     Product: 4282                             5            2.98            1.41     47.3 
+
+DOTTIE KO50 1/2 SNAPIN KO BLANK              320           71.26           33.76     47.4 
+
+     Product: 4285                           320           71.26           33.76     47.4 
+
+DOTTIE KO75 3/4 SNAPIN KO BLANK              100           28.72           13.61     47.4 
+
+     Product: 4286                           100           28.72           13.61     47.4 
+
+DOTTIE KW-812 K-LATH SCREW                   100            2.04            0.41     20.1 
+
+     Product: 4288                           100            2.04            0.41     20.1 
+
+DOTTIE KW-834 K-LATH SCREW                   100            2.82            0.90     31.9 
+
+     Product: 4289                           100            2.82            0.90     31.9 
+
+DOTTIE LAG-141 LAG BOLT                      100            9.98            3.19     32.0 
+
+     Product: 4297                           100            9.98            3.19     32.0 
+
+DOTTIE LAG-382 LAG BOLT                       25            5.35            1.71     32.0 
+
+     Product: 4309                            25            5.35            1.71     32.0 
+
+DOTTIE LB100 1-IN AL LB COND BODY              2            8.80            3.07     34.9 
+
+     Product: 4315                             2            8.80            3.07     34.9 
+
+DOTTIE LB125 1-1/4 AL LB COND BODY             4           28.65           10.01     34.9 
+
+     Product: 4316                             4           28.65           10.01     34.9 
+
+DOTTIE LB200 2-IN AL LB COND BODY              6           91.18           31.85     34.9 
+
+     Product: 4318                             6           91.18           31.85     34.9 
+
+DOTTIE LHD-1 1-LB DUCT SEAL                    1            2.88            0.63     21.9 
+
+     Product: 4326                             1            2.88            0.63     21.9 
+
+DOTTIE LL75 3/4 AL LL COND BODY                1            3.04            1.17     38.5 
+
+     Product: 4337                             1            3.04            1.17     38.5 
+
+DOTTIE LR50 1/2 AL LR COND BODY                1            2.43            0.86     35.4 
+
+     Product: 4355                             1            2.43            0.86     35.4 
+
+DOTTIE LW-38 LOCK WASHER                     100            2.91            0.93     32.0 
+
+     Product: 4385                           100            2.91            0.93     32.0 
+
+DOTTIE MB-1434 MACHINE BOLT                   50            2.51            0.80     31.9 
+
+     Product: 4406                            50            2.51            0.80     31.9 
+
+DOTTIE MB-381 MACHINE BOLT                   210           27.45            8.78     32.0 
+
+     Product: 4409                           210           27.45            8.78     32.0 
+
+DOTTIE MB-38112 MACHINE BOLT                 100           16.26            5.20     32.0 
+
+     Product: 4410                           100           16.26            5.20     32.0 
+
+DOTTIE MB-38114 MACHINE BOLT                 120           17.66            5.65     32.0 
+
+     Product: 4411                           120           17.66            5.65     32.0 
+
+DOTTIE MSK-55 DUST MASK (5 PACK)               2            3.07            0.67     21.8 
+
+     Product: 4439                             2            3.07            0.67     21.8 
+
+DOTTIE MT38C MAG TOOL FOR 1/4 TEKS             2           12.82            3.46     27.0 
+
+     Product: 53069                            2           12.82            3.46     27.0 
+
+DOTTIE NT200 2-IN STL COND CONN                2           43.77           11.33     25.9 
+
+     Product: 4464                             2           43.77           11.33     25.9 
+
+DOTTIE NTC200 2-IN STL COND CPLG               3          103.94           25.79     24.8 
+
+     Product: 4470                             3          103.94           25.79     24.8 
+
+DOTTIE ON75 3/4 OFFSET NIPPLE                  3            3.73            0.93     24.9 
+
+     Product: 4478                             3            3.73            0.93     24.9 
+
+DOTTIE PE2 3/4 PULLING ELBOW                   4           16.78            4.16     24.8 
+
+     Product: 4481                             4           16.78            4.16     24.8 
+
+DOTTIE PH100B 1-IN COND HGR W/BOLT            22            8.16            3.06     37.5 
+
+     Product: 4493                            22            8.16            3.06     37.5 
+
+DOTTIE PH110B 1-1/4 EMT HGR W/BOLT            42           17.93            6.69     37.3 
+
+     Product: 4494                            42           17.93            6.69     37.3 
+
+DOTTIE PH200B 2-IN COND HGR W/BOLT            20           17.13            6.40     37.4 
+
+     Product: 4497                            20           17.13            6.40     37.4 
+
+DOTTIE PH300B 3-IN COND HGR W/BOLT             8           10.14            4.06     40.0 
+
+     Product: 4499                             8           10.14            4.06     40.0 
+
+DOTTIE PH50B 1/2 COND HGR W/BOLT              15            4.11            1.53     37.2 
+
+     Product: 4502                            15            4.11            1.53     37.2 
+
+DOTTIE PH75B 3/4 COND HGR W/BOLT              35           11.17            4.17     37.3 
+
+     Product: 4503                            35           11.17            4.17     37.3 
+
+DOTTIE R352 3/4X1/2 RED BUSH                  15            9.20            2.29     24.9 
+
+     Product: 4515                            15            9.20            2.29     24.9 
+
+DOTTIE R361 1-1/2X1-1/4 RED BUSH               2            6.03            1.49     24.7 
+
+     Product: 4524                             2            6.03            1.49     24.7 
+
+DOTTIE RC1 1/4 PLATED STL ROD CPLG           335           71.20           17.66     24.8 
+
+     Product: 4541                           335           71.20           17.66     24.8 
+
+DOTTIE RC2 3/8 PLATED STL ROD CPLG           105           33.97            8.43     24.8 
+
+     Product: 4542                           105           33.97            8.43     24.8 
+
+DOTTIE RC3 1/2 PLATED STL ROD CPLG             5            2.01            0.50     24.9 
+
+     Product: 4543                             5            2.01            0.50     24.9 
+
+DOTTIE RMC-103212 COMB MACH SCR              200            5.23            1.67     31.9 
+
+     Product: 4567                           200            5.23            1.67     31.9 
+
+DOTTIE ROD14 10FT PLATED ROD                 150           29.28            6.93     23.7 
+
+     Product: 4594                           150           29.28            6.93     23.7 
+
+DOTTIE ROD38 10FT PLATED ROD                 200           79.16           25.34     32.0 
+
+     Product: 4596                           200           79.16           25.34     32.0 
+
+DOTTIE RTV10 CLEAR SILICONE SEALANT            3           24.35            5.33     21.9 
+
+     Product: 4599                             3           24.35            5.33     21.9 
+
+DOTTIE RW21 3/4X1/2 RED WASHER               100            9.22            2.29     24.8 
+
+     Product: 4608                           100            9.22            2.29     24.8 
+
+DOTTIE RW32 1X3/4 RED WASHER                  16            2.37            0.59     24.9 
+
+     Product: 4610                            16            2.37            0.59     24.9 
+
+DOTTIE RW64 2X1-1/4 RED WASHER                 2            0.89            0.22     24.7 
+
+     Product: 4621                             2            0.89            0.22     24.7 
+
+DOTTIE SA14138 SLEEVE ANCHOR                   0            0.00            0.00          
+
+     Product: 26168                            0            0.00            0.00          
+
+DOTTIE SA14214 SLEEVE ANCHOR                 100           53.95           11.80     21.9 
+
+     Product: 21863                          100           53.95           11.80     21.9 
+
+DOTTIE SDS14614 1/4X6-1/4 DRILL BIT            1            4.88            1.18     24.2 
+
+     Product: 19596                            1            4.88            1.18     24.2 
+
+DOTTIE SLB50 1/2 AL SLB ENT ELBOW              4           10.87            2.70     24.8 
+
+     Product: 4694                             4           10.87            2.70     24.8 
+
+DOTTIE SPD112 1-1/2X6 DRILL BIT                2            9.75            2.13     21.8 
+
+     Product: 4699                             2            9.75            2.13     21.8 
+
+DOTTIE SR50A650 1/2 STL CONN                   2            5.86            1.42     24.2 
+
+     Product: 4715                             2            5.86            1.42     24.2 
+
+DOTTIE SSW38B WOOD DRL SCR BTM MNT            50           57.49           12.57     21.9 
+
+     Product: 4727                            50           57.49           12.57     21.9 
+
+DOTTIE TBC43 1/4X3 TOG BOLT                   50           11.87            2.60     21.9 
+
+     Product: 4746                            50           11.87            2.60     21.9 
+
+DOTTIE TEKW-81 8X1 WAFER SCR                 300           19.49            6.23     32.0 
+
+     Product: 54680                          300           19.49            6.23     32.0 
+
+DOTTIE TEKW-812 8X1/2 WAFER SCR              500           23.57            6.52     27.7 
+
+     Product: 4772                           500           23.57            6.52     27.7 
+
+DOTTIE TEKWT-812 8X1/2 WAFER SCR           2,500          125.33           40.08     32.0 
+
+     Product: 4774                         2,500          125.33           40.08     32.0 
+
+DOTTIE TW100 1-IN 1H EMT STRAP               110           11.69            4.30     36.8 
+
+     Product: 4777                           110           11.69            4.30     36.8 
+
+DOTTIE TW125 1-1/4-IN 1H EMT STRAP            35            8.81            3.25     36.9 
+
+     Product: 4778                            35            8.81            3.25     36.9 
+
+DOTTIE TW306 2-IN 2H EMT STRAP                 9            3.31            1.15     34.7 
+
+     Product: 3876                             9            3.31            1.15     34.7 
+
+DOTTIE TW38 3/8-IN 1H COAX STRAP             715           46.55           17.16     36.9 
+
+     Product: 4782                           715           46.55           17.16     36.9 
+
+DOTTIE TW50 1/2-IN 1H EMT STRAP              200           12.64            4.66     36.9 
+
+     Product: 4783                           200           12.64            4.66     36.9 
+
+DOTTIE TW75 3/4-IN 1H EMT STRAP              210           15.35            5.65     36.8 
+
+     Product: 4784                           210           15.35            5.65     36.8 
+
+DOTTIE W14-214 1DP WEDGE ANCHOR              150           72.00           11.28     15.7 
+
+     Product: 4808                           150           72.00           11.28     15.7 
+
+DOTTIE W38-300 1-1/4DP WEDGE ANCHOR           15            9.75            1.70     17.4 
+
+     Product: 4812                            15            9.75            1.70     17.4 
+
+DOTTIE WDK-8 #8 WALL DRILLER KIT               9          112.43           24.59     21.9 
+
+     Product: 4817                             9          112.43           24.59     21.9 
+
+DOTTIE WR-6158 YEL ZINC PHIL SCR             200            6.82            2.24     32.8 
+
+     Product: 4827                           200            6.82            2.24     32.8 
+
+DOTTIE WR-62 YEL ZINC PHIL SCR               200            9.03            2.99     33.1 
+
+     Product: 4828                           200            9.03            2.99     33.1 
+
+DOTTIE ZA150 1/4-DI ANCHOR                   100           25.49            5.58     21.9 
+
+     Product: 4869                           100           25.49            5.58     21.9 
+
+DURACEL PC1400 C SIZE ALKALINE                 4            3.07            0.91     29.6 
+
+     Product: 10358                            4            3.07            0.91     29.6 
+
+E-MON E20-208100-JKIT 3PH 100A 208V            4        2,138.31          427.67     20.0 
+
+     Product: 62266                            4        2,138.31          427.67     20.0 
+
+E-MON E20-480100-JKIT 3PH 100A 480V            2        1,187.05          237.41     20.0 
+
+     Product: 62269                            2        1,187.05          237.41     20.0 
+
+ELCO P016S MR16 SOCKET                         1            3.71            1.39     37.5 
+
+     Product: 14139                            1            3.71            1.39     37.5 
+
+ELITE ELX-603-R-W EXIT W/BATTERY               2           41.54           13.54     32.6 
+
+     Product: 26866                            2           41.54           13.54     32.6 
+
+ELITE EU-33 33 T5 ELC BAL                      1           22.08            4.83     21.9 
+
+     Product: 5086                             1           22.08            4.83     21.9 
+
+GALVAN 7510 3/4X10 CU GRD ROD                  5          130.15           52.40     40.3 
+
+     Product: 4169                             5          130.15           52.40     40.3 
+
+GE AB37B PNLBD BOX W/BLANK ENDWALL             1            0.00           -5.00          
+
+     Product: 5361                             1            0.00           -5.00          
+
+GE F26DBX/SPX30/4P/10PK FLUOR LAMP             2           16.44            4.08     24.8 
+
+     Product: 5429                             2           16.44            4.08     24.8 
+
+GE TEY140 1P-277V-40A CB                       1           40.01           11.01     27.5 
+
+     Product: 20417                            1           40.01           11.01     27.5 
+
+GE THQB1120 1P20A 120V BOLT-ON CB              4           46.32            7.84     16.9 
+
+     Product: 5647                             4           46.32            7.84     16.9 
+
+GE THQB2115 15A 120/240V 2P BOLT-ON            1           29.32            8.12     27.7 
+
+     Product: 5650                             1           29.32            8.12     27.7 
+
+GE THQL1120 1P 20A 120V PLUG-IN CB             2            6.80            1.39     20.4 
+
+     Product: 5674                             2            6.80            1.39     20.4 
+
+GGATE OSW-P-0451-DMV-W WHITE                   8          490.88           74.88     15.3 
+
+     Product: 9813                             8          490.88           74.88     15.3 
+
+GREENL GT-12A DETECT-NC-50-1000V               3           47.80           11.86     24.8 
+
+     Product: 14291                            3           47.80           11.86     24.8 
+
+GWG 90336S 1-QT PUR PVC PRIMER                 4           34.56            8.46     24.5 
+
+     Product: 12127                            4           34.56            8.46     24.5 
+
+GWG G40436S 1-QT CLR PVC CEMENT                5           43.20           11.65     27.0 
+
+     Product: 4512                             5           43.20           11.65     27.0 
+
+GWG G40446S 1-PT CLR PVC CEMENT                1            5.71            1.89     33.1 
+
+     Product: 4510                             1            5.71            1.89     33.1 
+
+IDEAL 30-071 SIZE 71B GRY WIRE CONN          200           11.12            2.44     21.9 
+
+     Product: 5872                           200           11.12            2.44     21.9 
+
+IDEAL 30-072 SIZE 72B BLU WIRE CONN          100            5.84            0.94     16.1 
+
+     Product: 5873                           100            5.84            0.94     16.1 
+
+IDEAL 30-073 SIZE 73B ORG WIRE CONN          100            7.25            1.58     21.8 
+
+     Product: 5874                           100            7.25            1.58     21.8 
+
+IDEAL 30-372 25PK TERMINAL CONNECTR            1           21.45            4.69     21.9 
+
+     Product: 38227                            1           21.45            4.69     21.9 
+
+IDEAL 30-454 SIZE 454 BLU WIRE CONN           25            8.33            1.82     21.8 
+
+     Product: 5895                            25            8.33            1.82     21.8 
+
+IDEAL 30-651 SIZE 451 YEL WIRE CONN          500           31.34            5.06     16.1 
+
+     Product: 5898                           500           31.34            5.06     16.1 
+
+IDEAL 30-652 SIZE 452 RED WIRE CONN          500           40.28            6.51     16.2 
+
+     Product: 5899                           500           40.28            6.51     16.2 
+
+IDEAL 44-102 ASST WIRE MARKER BOOK             1            9.60            2.29     23.9 
+
+     Product: 5924                             1            9.60            2.29     23.9 
+
+IDEAL 44-103 1-45 WIRE MARKER BOOK             1            9.60            2.29     23.9 
+
+     Product: 5925                             1            9.60            2.29     23.9 
+
+IDEAL 61-051 CIRCUIT TESTER                    1           31.82            6.96     21.9 
+
+     Product: 5970                             1           31.82            6.96     21.9 
+
+ILSCO AU-0 ALCU 2COND LUG                      2            4.34            1.19     27.4 
+
+     Product: 6063                             2            4.34            1.19     27.4 
+
+ILSCO AU-250 ALCU 2COND LUG                    3           18.47            4.99     27.0 
+
+     Product: 6065                             3           18.47            4.99     27.0 
+
+ILSCO IK-6 6AWG COP SPLIT BOLT CONN            5            8.24            2.23     27.1 
+
+     Product: 6154                             5            8.24            2.23     27.1 
+
+ILSCO IK-8 8AWG COP SPLIT BOLT CONN            5            7.73            2.09     27.0 
+
+     Product: 6156                             5            7.73            2.09     27.0 
+
+ILSCO PB2-300 300MCM ALCU 2COND LUG            3           59.38           16.03     27.0 
+
+     Product: 16681                            3           59.38           16.03     27.0 
+
+ILSCO PBT-1/0 INSLTD SPLC-RED CONN             6           88.82           22.04     24.8 
+
+     Product: 20289                            6           88.82           22.04     24.8 
+
+ILSCO PBTS-2-1/0 2PRT INS TAP CONN             4           51.66           12.82     24.8 
+
+     Product: 20294                            4           51.66           12.82     24.8 
+
+ILSCO PBTS-2-4 2PRT INS TAP CONN               5           46.68           11.58     24.8 
+
+     Product: 20298                            5           46.68           11.58     24.8 
+
+ILSCO TA-6-S 14-6 ALCU LUG                     7            3.97            1.08     27.2 
+
+     Product: 6201                             7            3.97            1.08     27.2 
+
+INT-MAT K4221C 120V PHOTO CONTROL              1           10.45            2.29     21.9 
+
+     Product: 6783                             1           10.45            2.29     21.9 
+
+INT-MAT WP1220C 2G VERT/HOR WP CVR             1            9.91            2.17     21.9 
+
+     Product: 6824                             1            9.91            2.17     21.9 
+
+ITE B350 3P 50A CB                             2          232.86           73.88     31.7 
+
+     Product: 6268                             2          232.86           73.88     31.7 
+
+ITE B44 PANEL BOARD BOX                        4            0.00          -28.92          
+
+     Product: 6275                             4            0.00          -28.92          
+
+ITE BQD315 3P 15A 277/480 CB                   2          390.94           85.52     21.9 
+
+     Product: 6312                             2          390.94           85.52     21.9 
+
+ITE ECQFL3 FLUSH ADD-A-LOCK                    2           61.20           14.68     24.0 
+
+     Product: 6618                             2           61.20           14.68     24.0 
+
+ITE EGK 44CONN GROUND BUS BAR                  2            7.02            1.10     15.7 
+
+     Product: 6332                             2            7.02            1.10     15.7 
+
+ITE GNF322 60A 240V NEMA1 4SN SW               2           84.78           20.56     24.3 
+
+     Product: 6401                             2           84.78           20.56     24.3 
+
+ITE HED41B030 SP 30A 277V CB                   1          165.17           36.17     21.9 
+
+     Product: 23757                            1          165.17           36.17     21.9 
+
+ITE Q2020 SP 20/20A 120/240V CB                1            6.30            1.88     29.8 
+
+     Product: 6554                             1            6.30            1.88     29.8 
+
+KING-SP 62125 WIRE NUT (BAG 25)                1           12.92            4.36     33.7 
+
+     Product: 7456                             1           12.92            4.36     33.7 
+
+KING-SP 62325 WIRE NUT (BAG 15)                3           39.05           14.61     37.4 
+
+     Product: 7458                             3           39.05           14.61     37.4 
+
+L-FSE FLNR005 250V RK5 TD FUSE                 2            6.48            1.42     21.9 
+
+     Product: 8645                             2            6.48            1.42     21.9 
+
+L-FSE FLNR015 250V RK5 TD FUSE                 4           10.45            2.32     22.2 
+
+     Product: 8627                             4           10.45            2.32     22.2 
+
+L-FSE FLNR150 250V RK5 TD FUSE                 3           71.04           18.21     25.6 
+
+     Product: 8628                             3           71.04           18.21     25.6 
+
+L-FSE FLSR070 600V RK5 TD FUSE                 3           61.79           13.52     21.9 
+
+     Product: 8688                             3           61.79           13.52     21.9 
+
+LENOX 1779771 4.25IN PILOT DRILL               6           19.51            4.27     21.9 
+
+     Product: 7495                             6           19.51            4.27     21.9 
+
+LENOX 1779801 2L ARBOR 1/BOX                   1           15.35            3.36     21.9 
+
+     Product: 7482                             1           15.35            3.36     21.9 
+
+LENOX 1779804 5L ARBOR 1/BOX                  12          117.67           25.75     21.9 
+
+     Product: 7505                            12          117.67           25.75     21.9 
+
+LENOX 1779805 6L ARBOR 1/BOX                   5           74.69           16.34     21.9 
+
+     Product: 19219                            5           74.69           16.34     21.9 
+
+LENOX 30018-18L 1-1/8 HOLE SAW                 2           13.88            3.04     21.9 
+
+     Product: 7468                             2           13.88            3.04     21.9 
+
+LENOX 30022-22L 1-3/8 HOLE SAW                 2           14.62            3.20     21.9 
+
+     Product: 7476                             2           14.62            3.20     21.9 
+
+LENOX 30040-40L 2-1/2 HOLE SAW                 1           11.93            2.61     21.9 
+
+     Product: 7491                             1           11.93            2.61     21.9 
+
+LENOX 30048-48L 3-IN HOLE SAW                  1           12.37            2.71     21.9 
+
+     Product: 7499                             1           12.37            2.71     21.9 
+
+LEV 16252-W WH DPLX RCPT-N5-15R               55          114.05           20.55     18.0 
+
+     Product: 7638                            55          114.05           20.55     18.0 
+
+LEV 16352 BRN DPLX RCPT-NEMA5-20R             17           45.63           11.63     25.5 
+
+     Product: 7650                            17           45.63           11.63     25.5 
+
+LEV 16352-W WH DPLX RCPT-N5-20R               34           91.25           23.25     25.5 
+
+     Product: 7655                            34           91.25           23.25     25.5 
+
+LEV 2310 LKG FLUSH RCPT L5-20R                 1            8.35            1.51     18.1 
+
+     Product: 7692                             1            8.35            1.51     18.1 
+
+LEV 2610 LKG FLUSH RCPT L5-30R                 1           12.03            2.45     20.4 
+
+     Product: 7731                             1           12.03            2.45     20.4 
+
+LEV 2621 LKG PLUG L6-30P                       2           20.25            3.65     18.0 
+
+     Product: 7738                             2           20.25            3.65     18.0 
+
+LEV 3031-2W SP 30A 277V WH LK SW               3           33.87            7.41     21.9 
+
+     Product: 7767                             3           33.87            7.41     21.9 
+
+LEV 5029-I IV SGL RCPT-NEMA6-15R               1            2.93            1.11     37.9 
+
+     Product: 35714                            1            2.93            1.11     37.9 
+
+LEV 5266-C BLK PLUG-N5-15P                     4           18.09            3.95     21.8 
+
+     Product: 7930                             4           18.09            3.95     21.8 
+
+LEV 5325-SW WH DPLX RCPT-N5-15R               10           11.52            2.52     21.9 
+
+     Product: 7952                            10           11.52            2.52     21.9 
+
+LEV 5362-IG ISO GRD DPLXRCPT-N5-20R            4           26.71            4.82     18.0 
+
+     Product: 7969                             4           26.71            4.82     18.0 
+
+LEV 5601-2W SP WH 15A SW                      18           24.42            5.34     21.9 
+
+     Product: 8009                            18           24.42            5.34     21.9 
+
+LEV 5603-2W 3WAY WH 15A SW                     2            3.84            0.82     21.4 
+
+     Product: 8019                             2            3.84            0.82     21.4 
+
+LEV 5621-2W SP WH 20A DECORA SWITCH           31           83.20           15.00     18.0 
+
+     Product: 8041                            31           83.20           15.00     18.0 
+
+LEV 5821-W WH SGL RCPT-NEMA-6-20R              1            2.11            0.46     21.8 
+
+     Product: 8097                             1            2.11            0.46     21.8 
+
+LEV 688-W CLOCK HGR RCPT-NM15-1R               5           23.36            6.29     26.9 
+
+     Product: 8174                             5           23.36            6.29     26.9 
+
+LEV 80301-SW 1G SCREWLESS FACEPLATE            1            2.69            0.59     21.9 
+
+     Product: 17724                            1            2.69            0.59     21.9 
+
+LEV 80309-SW 2G SCREWLESS FACEPLATE            1            6.40            2.20     34.4 
+
+     Product: 8185                             1            6.40            2.20     34.4 
+
+LEV 80311-SW 3G SCREWLESS FACEPLATE            1            8.06            1.76     21.8 
+
+     Product: 8188                             1            8.06            1.76     21.8 
+
+LEV 80321-SW 5G SCREWLESS FACEPLATE            1           20.16            4.41     21.9 
+
+     Product: 17255                            1           20.16            4.41     21.9 
+
+LEV 80401 1G BRN WALLPLATE                    20            4.03            0.88     21.8 
+
+     Product: 8194                            20            4.03            0.88     21.8 
+
+LEV 80401-W 1G WH WALLPLATE                  210           39.41            6.35     16.1 
+
+     Product: 8200                           210           39.41            6.35     16.1 
+
+LEV 80407-W 7G WH COMB PLATE                   2          114.76           25.11     21.9 
+
+     Product: 8207                             2          114.76           25.11     21.9 
+
+LEV 80409-W 2G WH WALLPLATE                   61           24.83            4.49     18.1 
+
+     Product: 8214                            61           24.83            4.49     18.1 
+
+LEV 80411-W 3G WH WALLPLATE                    7            3.94            0.63     16.0 
+
+     Product: 8221                             7            3.94            0.63     16.0 
+
+LEV 80714-E NYL 1G BLANK PLT                   4            3.37            2.25     66.8 
+
+     Product: 50307                            4            3.37            2.25     66.8 
+
+LEV 85014 1G BRN BLANK PLATE                   3            0.66            0.15     22.7 
+
+     Product: 8365                             3            0.66            0.15     22.7 
+
+LEV 85025 2G BRN BLANK PLATE                   1            0.47            0.10     21.3 
+
+     Product: 8368                             1            0.47            0.10     21.3 
+
+LEV 86004 1G IV SGL RCPT PLATE                 1            0.22            0.08     36.4 
+
+     Product: 8381                             1            0.22            0.08     36.4 
+
+LEV 86009 2G IV SW PLATE                       1            0.34            0.06     17.6 
+
+     Product: 8385                             1            0.34            0.06     17.6 
+
+LEV 86014 1G IV BLANK PLATE                   10            1.69            0.27     16.0 
+
+     Product: 8389                            10            1.69            0.27     16.0 
+
+LEV 86016 2G IV DPLX RCPT PLATE                1            0.34            0.06     17.6 
+
+     Product: 8390                             1            0.34            0.06     17.6 
+
+LEV 86025 2G IV BLANK PLATE                   10            4.03            0.88     21.8 
+
+     Product: 8396                            10            4.03            0.88     21.8 
+
+LEV 88004 1G WHT SGL RCPT PLATE                1            0.18            0.04     22.2 
+
+     Product: 8414                             1            0.18            0.04     22.2 
+
+LEV 88009 2G WHT SW PLATE                      2            0.68            0.11     16.2 
+
+     Product: 8417                             2            0.68            0.11     16.2 
+
+LEV 88014 1G WHT BLANK PLATE                  45            7.60            1.21     15.9 
+
+     Product: 8421                            45            7.60            1.21     15.9 
+
+LEV 88025 2G WHT BLANK PLATE                   2            0.87            0.23     26.4 
+
+     Product: 8428                             2            0.87            0.23     26.4 
+
+LEV 88602 WH 2G OVRSZD DEC WALLPLAT            3           11.33            5.95     52.5 
+
+     Product: 19425                            3           11.33            5.95     52.5 
+
+LEV CR15-E BLK 15A 125V DPLX RCPT              1            1.14            0.33     28.9 
+
+     Product: 8467                             1            1.14            0.33     28.9 
+
+LEV CR15-W WH DPLX RCPT NEMA5-15R             21           22.84            5.83     25.5 
+
+     Product: 8470                            21           22.84            5.83     25.5 
+
+LEV CR20-W WH DPLX RCPT NEMA5-20R              8            9.27            1.67     18.0 
+
+     Product: 8476                             8            9.27            1.67     18.0 
+
+LEV CS120-2W SP 20A 277V WHT SW                5           11.04            1.99     18.0 
+
+     Product: 8488                             5           11.04            1.99     18.0 
+
+LEV CS8369 50A LKG RCPT                        1           48.54           10.62     21.9 
+
+     Product: 8525                             1           48.54           10.62     21.9 
+
+LEV GFNT1-W WHITE GFCI 15A RCPT                9           86.40           19.44     22.5 
+
+     Product: 21029                            9           86.40           19.44     22.5 
+
+LEV GFNT2-W WHT 20A GFCI RCP                   4           39.44            5.56     14.1 
+
+     Product: 8442                             4           39.44            5.56     14.1 
+
+LEV MS602-BW DPST 60A 600VAC SW                1           39.88            7.19     18.0 
+
+     Product: 20419                            1           39.88            7.19     18.0 
+
+LEV N7899 20A SL PRO GFCI                      3           34.56            7.56     21.9 
+
+     Product: 53946                            3           34.56            7.56     21.9 
+
+LEV ODS10-IDI IV IR OCCUPANCY SENSO            1           38.40            8.40     21.9 
+
+     Product: 8599                             1           38.40            8.40     21.9 
+
+LITHONIA EMHMD00007 MIRROR MYLAR IN            2            5.86            2.46     42.0 
+
+     Product: 8847                             2            5.86            2.46     42.0 
+
+LITHONIA LQMSW3G-120/277EL-NM6 EXIT            1           38.97           10.05     25.8 
+
+     Product: 8881                             1           38.97           10.05     25.8 
+
+LOT SWITCHGEAR                                 8       47,216.14        5,400.23     11.4 
+
+     Product: 15982                            8       47,216.14        5,400.23     11.4 
+
+LUTRON EC3T540GU210 40W277V BAL                3          268.89           58.89     21.9 
+
+     Product: 15053                            3          268.89           58.89     21.9 
+
+LUTRON FDB-4827-277-2 32W BALLAST              1          121.80           26.80     22.0 
+
+     Product: 15058                            1          121.80           26.80     22.0 
+
+LUTRON FDB-T432-277-1-S                        1           76.83           16.83     21.9 
+
+     Product: 56047                            1           76.83           16.83     21.9 
+
+LUTRON NT-1PS-WH SP20A120V SWITCH              1           16.80            2.80     16.7 
+
+     Product: 9121                             1           16.80            2.80     16.7 
+
+LUTRON NTELV-600-WH 600W LV WHT                1          152.40           25.40     16.7 
+
+     Product: 15092                            1          152.40           25.40     16.7 
+
+MINRLAC MED50 3/4 1H COND STRAP               10            2.22            0.55     24.8 
+
+     Product: 9623                            10            2.22            0.55     24.8 
+
+MINRLAC MED60 1-IN 1H COND STRAP              45           13.64            3.38     24.8 
+
+     Product: 9625                            45           13.64            3.38     24.8 
+
+MURRAY MPD2200 2P 200A CB                      1           76.49           14.33     18.7 
+
+     Product: 9748                             1           76.49           14.33     18.7 
+
+NSI S8-10N #8 NYL SPADE #10 STUD              25           21.12            5.24     24.8 
+
+     Product: 9848                            25           21.12            5.24     24.8 
+
+ORBIT 1GX-75 1 GANG EXT                       10           13.58            3.94     29.0 
+
+     Product: 55918                           10           13.58            3.94     29.0 
+
+ORBIT 2GX-75 2 GANG EXT                        6           10.08            2.92     29.0 
+
+     Product: 55919                            6           10.08            2.92     29.0 
+
+ORBIT 3PB 3-1/2 PANCAKE BOX 1/2 DP             4            4.87            1.18     24.2 
+
+     Product: 29172                            4            4.87            1.18     24.2 
+
+ORBIT 4405 4S SG REC 1.594                     2            2.30            0.56     24.3 
+
+     Product: 9954                             2            2.30            0.56     24.3 
+
+ORBIT 4BC 4IN SQ FLAT BLANK CVR                2            0.59            0.15     25.4 
+
+     Product: 29174                            2            0.59            0.15     25.4 
+
+ORBIT 5SDB-50 5SQ BOX 2-1/8D 1/2KO         1,000        1,823.06          843.06     46.2 
+
+     Product: 29018                        1,000        1,823.06          843.06     46.2 
+
+ORBIT HBC-GFI HANDY COVER GFI                  3            1.65            0.45     27.3 
+
+     Product: 54039                            3            1.65            0.45     27.3 
+
+ORBIT MB-D MASONRY BOX PARTITION               6            6.66            1.62     24.3 
+
+     Product: 16492                            6            6.66            1.62     24.3 
+
+ORBIT TG-1 2-1/2IN GANG SW BOX                65          116.98           25.98     22.2 
+
+     Product: 27240                           65          116.98           25.98     22.2 
+
+P&S SPO26-W WHT 1G GFCI PLATE                  1            1.66            0.41     24.7 
+
+     Product: 17295                            1            1.66            0.41     24.7 
+
+P&S SS724 302SS 1G POWER OUTLET PLT            3           11.90            3.38     28.4 
+
+     Product: 10281                            3           11.90            3.38     28.4 
+
+P&S SS8 302SS 1G DPLX PLATE                   10           18.56            6.36     34.3 
+
+     Product: 10288                           10           18.56            6.36     34.3 
+
+PHIL F25T8/TL735-ALTO FLUOR LAMP               6           21.44          -14.56    -67.9 
+
+     Product: 10395                            6           21.44          -14.56    -67.9 
+
+PHIL PL-L-40W/30/RS/IS FLUOR LAMP              6           44.47           10.39     23.4 
+CODE 300426
+
+     Product: 32957                            6           44.47           10.39     23.4 
+
+PVC 3-1/2-IN-30DEG-SCH-40-ELL                  1            9.68            2.43     25.1 
+
+     Product: 35384                            1            9.68            2.43     25.1 
+
+PVC ADAPTER FEMALE 1-1/4-IN                    2            1.28            0.69     53.9 
+
+     Product: 236                              2            1.28            0.69     53.9 
+
+PVC ADAPTER FEMALE 1-IN                        1            0.32            0.12     37.5 
+
+     Product: 466                              1            0.32            0.12     37.5 
+
+PVC ADAPTER FEMALE 2-IN                        2            1.74            0.93     53.4 
+
+     Product: 608                              2            1.74            0.93     53.4 
+
+PVC ADAPTER MALE 3/4-IN                        5            1.05            0.37     35.2 
+
+     Product: 702                              5            1.05            0.37     35.2 
+
+PVC CPLG 1-1/2-IN                             10            2.82            0.74     26.2 
+
+     Product: 185                             10            2.82            0.74     26.2 
+
+PVC CPLG 1-1/4-IN                              5            1.15            0.35     30.4 
+
+     Product: 235                              5            1.15            0.35     30.4 
+
+PVC CPLG 1-IN                                 52            8.92            2.70     30.3 
+
+     Product: 465                             52            8.92            2.70     30.3 
+
+PVC CPLG 2-IN                                 25           16.00            8.01     50.1 
+
+     Product: 607                             25           16.00            8.01     50.1 
+
+PVC CPLG 3-IN                                 20           23.99            7.61     31.7 
+
+     Product: 898                             20           23.99            7.61     31.7 
+
+PVC CPLG 3/4-IN                               64            7.94            3.29     41.4 
+
+     Product: 699                             64            7.94            3.29     41.4 
+
+PVC CPLG 4-IN                                 20           38.40           13.90     36.2 
+
+     Product: 994                             20           38.40           13.90     36.2 
+
+PVC JBOX 8X8X4                                 2           45.15           15.23     33.7 
+
+     Product: 17288                            2           45.15           15.23     33.7 
+
+PVC SCH-40 10FT 1-1/2-IN                      60           23.27            5.52     23.7 
+
+     Product: 171                             60           23.27            5.52     23.7 
+
+PVC SCH-40 10FT 1-1/4-IN                      60           19.50            4.03     20.7 
+
+     Product: 222                             60           19.50            4.03     20.7 
+
+PVC SCH-40 10FT 1-IN                         850          199.33           39.90     20.0 
+
+     Product: 454                            850          199.33           39.90     20.0 
+
+PVC SCH-40 10FT 2-IN                         160           77.86           16.73     21.5 
+
+     Product: 587                            160           77.86           16.73     21.5 
+
+PVC SCH-40 10FT 4-IN                         500          647.35           99.96     15.4 
+
+     Product: 969                            500          647.35           99.96     15.4 
+
+PVC SCH-40 ELB 22DEG 1-IN                      2            3.84            0.84     21.9 
+
+     Product: 455                              2            3.84            0.84     21.9 
+
+PVC SCH-40 ELB 30DEG 2-1/2-IN                  5           33.60           17.00     50.6 
+
+     Product: 526                              5           33.60           17.00     50.6 
+
+PVC SCH-40 ELB 30DEG 4-IN                      6           59.13            9.53     16.1 
+
+     Product: 977                              6           59.13            9.53     16.1 
+
+PVC SCH-40 ELB 45DEG 1-1/4-IN                  1            1.22            0.53     43.4 
+
+     Product: 225                              1            1.22            0.53     43.4 
+
+PVC SCH-40 ELB 45DEG 2-1/2-IN                 10           54.40           24.66     45.3 
+
+     Product: 527                             10           54.40           24.66     45.3 
+
+PVC SCH-40 ELB 45DEG 2-IN                      3            8.45            4.48     53.0 
+
+     Product: 593                              3            8.45            4.48     53.0 
+
+PVC SCH-40 ELB 45DEG 3-1/2-IN                  2           18.98            5.53     29.1 
+
+     Product: 656                              2           18.98            5.53     29.1 
+
+PVC SCH-40 ELB 90DEG 1-1/2-IN                  9           14.40            5.44     37.8 
+
+     Product: 177                              9           14.40            5.44     37.8 
+
+PVC SCH-40 ELB 90DEG 1-1/4-IN                  3            3.84            2.16     56.3 
+
+     Product: 228                              3            3.84            2.16     56.3 
+
+PVC SCH-40 ELB 90DEG 1-IN                      1            0.82            0.35     42.7 
+
+     Product: 459                              1            0.82            0.35     42.7 
+
+PVC SCH-40 ELB 90DEG 2-IN                     16           38.80           20.16     52.0 
+
+     Product: 598                             16           38.80           20.16     52.0 
+
+PVC SCH-40 ELB 90DEG 24RAD 2-1/2-IN            4           35.48           11.67     32.9 
+
+     Product: 534                              4           35.48           11.67     32.9 
+
+PVC SCH-40 ELB 90DEG 24RAD 3-IN                1           12.74            7.84     61.5 
+
+     Product: 889                              1           12.74            7.84     61.5 
+
+PVC SCH-40 ELB 90DEG 3-IN                      8           46.94           11.82     25.2 
+
+     Product: 888                              8           46.94           11.82     25.2 
+
+PVC SCH-40 ELB 90DEG 3/4-IN                   58           35.00           17.48     49.9 
+
+     Product: 695                             58           35.00           17.48     49.9 
+
+PVC SCH-40 ELB 90DEG 4-IN                     14          138.88           41.78     30.1 
+
+     Product: 985                             14          138.88           41.78     30.1 
+
+RACO 111 3-1/2 OCT 1-1/2D EXT RING             1            2.62            0.71     27.1 
+
+     Product: 10582                            1            2.62            0.71     27.1 
+
+RACO 165 4 OCT 2-1/8D BOX 1/2 KO              11           13.18            3.56     27.0 
+
+     Product: 10595                           11           13.18            3.56     27.0 
+
+RACO 187 4SQR1-1/2D 1/2 HAN/4S EXT             5            7.83            1.45     18.5 
+
+     Product: 10600                            5            7.83            1.45     18.5 
+
+RACO 189 4SQR1-1/2D BOX COMB KO               25           15.83            2.86     18.1 
+
+     Product: 10601                           25           15.83            2.86     18.1 
+
+RACO 2002 1/2 STL S/SCR EMT CONN              50            6.44            1.11     17.2 
+
+     Product: 10606                           50            6.44            1.11     17.2 
+
+RACO 2003 3/4 STL S/SCR EMT CONN              31            6.66            1.17     17.6 
+
+     Product: 10607                           31            6.66            1.17     17.6 
+
+RACO 2004 1-IN STL S/SCR EMT CONN             50           17.84            3.73     20.9 
+
+     Product: 10608                           50           17.84            3.73     20.9 
+
+RACO 2005 1-1/4 STL S/SCR EMT CONN             2            1.39            0.29     20.9 
+
+     Product: 10609                            2            1.39            0.29     20.9 
+
+RACO 2008 2-IN STL S/SCR EMT CONN              2            2.54            0.44     17.3 
+
+     Product: 10611                            2            2.54            0.44     17.3 
+
+RACO 201 4SQR1-1/2D EXT 1/2 KO               300          514.91          139.07     27.0 
+
+     Product: 10612                          300          514.91          139.07     27.0 
+
+RACO 2023 3/4 STL S/SCR EMT CPLG              20            5.02            0.87     17.3 
+
+     Product: 10615                           20            5.02            0.87     17.3 
+
+RACO 2024 1-IN STL S/SCR EMT CPLG             50           19.47            4.06     20.9 
+
+     Product: 10616                           50           19.47            4.06     20.9 
+
+RACO 2025 1-1/4 STL S/SCR EMT CPLG            20           16.38            2.84     17.3 
+
+     Product: 10617                           20           16.38            2.84     17.3 
+
+RACO 2028 2-IN STL S/SCR EMT CPLG             11           16.17            1.87     11.6 
+
+     Product: 10619                           11           16.17            1.87     11.6 
+
+RACO 203 4SQR1-1/2D EXT COMB KO               10           17.48            4.72     27.0 
+
+     Product: 10620                           10           17.48            4.72     27.0 
+
+RACO 2152 3-IN STL S/SCR EMT CPLG              8           27.76            3.84     13.8 
+
+     Product: 10635                            8           27.76            3.84     13.8 
+
+RACO 232 4SQR2-1/8D BOX COMB KO            2,234        1,629.73          -11.81     -0.7 
+
+     Product: 10644                        2,234        1,629.73          -11.81     -0.7 
+
+RACO 233 4SQR2-1/8D BOX 1-IN KO              500          826.30           48.85      5.9 
+
+     Product: 10645                          500          826.30           48.85      5.9 
+
+RACO 257 4-11/16SQR2-1/8D BOX                112          139.10           15.00     10.8 
+
+     Product: 10656                          112          139.10           15.00     10.8 
+
+RACO 258 4-11/16SQR2-1/8D 1KO BOX             10           16.46            3.08     18.7 
+
+     Product: 10657                           10           16.46            3.08     18.7 
+
+RACO 259 4-11/16SQR2-1/8D BOX                100          334.09           80.53     24.1 
+
+     Product: 10658                          100          334.09           80.53     24.1 
+
+RACO 296 4 OCT CEIL FAN BOX                    1           10.28            2.78     27.0 
+
+     Product: 10699                            1           10.28            2.78     27.0 
+
+RACO 3402 1/2 STR LIQ-TITE CONN               29           34.46            5.98     17.4 
+
+     Product: 34132                           29           34.46            5.98     17.4 
+
+RACO 3403 3/4 STR LIQ-TITE CONN               16           30.60            5.32     17.4 
+
+     Product: 34133                           16           30.60            5.32     17.4 
+
+RACO 3404 1-IN STR LIQ-TITE CONN               4           13.87            2.40     17.3 
+
+     Product: 34134                            4           13.87            2.40     17.3 
+
+RACO 3408 2-IN STR LIQ-TITE CONN               2           24.19            4.20     17.4 
+
+     Product: 34137                            2           24.19            4.20     17.4 
+
+RACO 3422 1/2 90D LIQ-TITE CONN                5           11.38            1.97     17.3 
+
+     Product: 34142                            5           11.38            1.97     17.3 
+
+RACO 3423 3/4 90D LIQ-TITE CONN                2            6.80            1.18     17.4 
+
+     Product: 34143                            2            6.80            1.18     17.4 
+
+RACO 5155-0 1G WP SGL RCPL CVR                 1            2.07            0.52     25.1 
+
+     Product: 10739                            1            2.07            0.52     25.1 
+
+RACO 5173-0 1G WP BLANK CVR GRY                9            5.58            1.38     24.7 
+
+     Product: 10742                            9            5.58            1.38     24.7 
+
+RACO 5175-0 2G WP BLANK CVR GRY                7            8.40            2.08     24.8 
+
+     Product: 10745                            7            8.40            2.08     24.8 
+
+RACO 5324-0 1G WP BOX W/3 3/4 HUBS             3            9.17            2.27     24.8 
+
+     Product: 10761                            3            9.17            2.27     24.8 
+
+RACO 5343-0 2G WP BOX W/4 3/4 HUBS             3           18.61            4.62     24.8 
+
+     Product: 10772                            3           18.61            4.62     24.8 
+
+RACO 5345-0 2G WP BOX W/5 3/4 HUBS             1            5.00            1.24     24.8 
+
+     Product: 10773                            1            5.00            1.24     24.8 
+
+RACO 5348-0 2G WP BOX W/7 3/4 HUBS             3           21.46            5.32     24.8 
+
+     Product: 10775                            3           21.46            5.32     24.8 
+
+RACO 5361-0 4-IN RND SPLICE BOX GRY            1            4.76            1.18     24.8 
+
+     Product: 10776                            1            4.76            1.18     24.8 
+
+RACO 5363-0 4-IN RND EXT ADPTR                 1            6.49            1.66     25.6 
+
+     Product: 10777                            1            6.49            1.66     25.6 
+
+RACO 5372-0 4-IN RND SPLICE BOX GRY            6           36.76            9.12     24.8 
+
+     Product: 10778                            6           36.76            9.12     24.8 
+
+RACO 5374-0 4-IN SPLICE BOX CVR                1            1.05            0.26     24.8 
+
+     Product: 10779                            1            1.05            0.26     24.8 
+
+RACO 5412-0 1/2 EXT ADPT                       1            7.50            1.96     26.1 
+
+     Product: 10792                            1            7.50            1.96     26.1 
+
+RACO 650 1-1/2D HANDYBOX 1/2 KO               23           25.74            6.95     27.0 
+
+     Product: 10801                           23           25.74            6.95     27.0 
+
+RACO 670RAC 2-1/8D HANDYBOX 1/2 KO            25           37.40           10.11     27.0 
+
+     Product: 10808                           25           37.40           10.11     27.0 
+
+RACO 697 3-1/2D 3G MASONRY BOX                 1            7.10            1.28     18.0 
+
+     Product: 10821                            1            7.10            1.28     18.0 
+
+RACO 722 4-IN RND FLAT BLANK CVR               1            0.51            0.14     27.5 
+
+     Product: 10832                            1            0.51            0.14     27.5 
+
+RACO 752 4-IN SQR FLAT BLANK CVR              20            5.84            1.16     19.9 
+
+     Product: 10838                           20            5.84            1.16     19.9 
+
+RACO 756 4-IN SQR 5/8D PLASTER RING           11            5.41            0.98     18.1 
+
+     Product: 10840                           11            5.41            0.98     18.1 
+
+RACO 757 4-IN SQR 1D PLASTER RING            202          163.93           29.58     18.0 
+
+     Product: 10841                          202          163.93           29.58     18.0 
+
+RACO 758 4-IN SQR 1-1/4D PLSTR RING            0            0.00            0.00          
+
+     Product: 10842                            0            0.00            0.00          
+
+RACO 759 4-IN SQR 3/4D PLASTER RING            3            2.63            0.47     17.9 
+
+     Product: 10843                            3            2.63            0.47     17.9 
+
+RACO 768 4-IN SQR 5/8D 1G SW RING             29           12.39            2.24     18.1 
+
+     Product: 10846                           29           12.39            2.24     18.1 
+
+RACO 769 4-IN SQR 5/8D 2G SW RING             23           15.15            2.73     18.0 
+
+     Product: 10847                           23           15.15            2.73     18.0 
+
+RACO 772 4-IN SQR 1/2D 1G SW RING              4            2.38            0.49     20.6 
+
+     Product: 10849                            4            2.38            0.49     20.6 
+
+RACO 773 4-IN SQR 3/4D 1G SW RING          1,040          459.79          120.12     26.1 
+
+     Product: 10850                        1,040          459.79          120.12     26.1 
+
+RACO 774 4-IN SQR 1D 1G SW RING              300          179.31           32.34     18.0 
+
+     Product: 10851                          300          179.31           32.34     18.0 
+
+RACO 775 4-IN SQR 1-1/4D 1G SW RING          118          107.64           29.07     27.0 
+
+     Product: 10852                          118          107.64           29.07     27.0 
+
+RACO 779 4-IN SQR 3/4D 2G SW RING             34           23.86            4.33     18.1 
+
+     Product: 10855                           34           23.86            4.33     18.1 
+
+RACO 780 4-IN SQR 1D 2G SW RING               38           40.74           11.01     27.0 
+
+     Product: 10856                           38           40.74           11.01     27.0 
+
+RACO 781 4-IN SQR 1-1/4D 2G SW RING           18           20.85            5.63     27.0 
+
+     Product: 10857                           18           20.85            5.63     27.0 
+
+RACO 795 4-IN SQR 1-1/2D 2G TILE RG            1            3.57            0.97     27.2 
+
+     Product: 10863                            1            3.57            0.97     27.2 
+
+RACO 800C 4-IN SQR WORK CVR 1 SWTCH          103           93.11           18.62     20.0 
+
+     Product: 10865                          103           93.11           18.62     20.0 
+
+RACO 808C 4-IN SQR WORK CVR 1G GFI            12           10.57            1.88     17.8 
+
+     Product: 10868                           12           10.57            1.88     17.8 
+
+RACO 809C 4-IN SQR WORK CVR 2G GFI             3            5.43            1.02     18.8 
+
+     Product: 16046                            3            5.43            1.02     18.8 
+
+RACO 822 3/4D 3G SW RING                       3           16.38            2.95     18.0 
+
+     Product: 10878                            3           16.38            2.95     18.0 
+
+RACO 823 3/4D 4G SW RING                       1            6.48            1.17     18.1 
+
+     Product: 10879                            1            6.48            1.17     18.1 
+
+RACO 825 3/4D 6G SW RING                       1           13.81            2.49     18.0 
+
+     Product: 10881                            1           13.81            2.49     18.0 
+
+RACO 832 4-11/16SQ FLAT BLANK                529          239.43           29.62     12.4 
+
+     Product: 10886                          529          239.43           29.62     12.4 
+
+RACO 838 4-11/16SQR3/4D 1G SW RING           121          127.62           23.35     18.3 
+
+     Product: 10890                          121          127.62           23.35     18.3 
+
+RACO 840 4-11/16SQR3/4D 2G SW RING             6            7.36            1.12     15.2 
+
+     Product: 10892                            6            7.36            1.12     15.2 
+
+RACO 842 4-11/16SQR1-1/4D 1G SW RNG           10           12.40            2.24     18.1 
+
+     Product: 10894                           10           12.40            2.24     18.1 
+
+RACO 843 4-11/16SQR5/8D 1G SW RING             6           11.32            2.12     18.7 
+
+     Product: 10895                            6           11.32            2.12     18.7 
+
+RACO 864 HANDYBOX CVR F/DPLX RCPT             45           23.81            6.62     27.8 
+
+     Product: 10904                           45           23.81            6.62     27.8 
+
+RACO 870RAC 4-11/16 CVR FOR 1-SW               1            3.11            0.56     18.0 
+
+     Product: 10907                            1            3.11            0.56     18.0 
+
+RACO 952 1-5/8D 3G G BOX                       3           26.11            4.71     18.0 
+
+     Product: 10929                            3           26.11            4.71     18.0 
+
+RACO 953 1-5/8D 4G G BOX                       1           13.30            2.40     18.0 
+
+     Product: 10930                            1           13.30            2.40     18.0 
+
+RACO 955 1-5/8D 6G G BOX                       1           33.25            6.00     18.0 
+
+     Product: 10932                            1           33.25            6.00     18.0 
+
+RACO 974 G BOX LV PARTITION                    4            7.69            2.09     27.2 
+
+     Product: 10942                            4            7.69            2.09     27.2 
+
+RAMSET 112BI 1-1/2 BLK IRON                  260          180.40           46.84     26.0 
+
+     Product: 10949                          260          180.40           46.84     26.0 
+
+RAMSET 1508SD 1IN DRIVE PIN/WASH             600           59.40           18.84     31.7 
+
+     Product: 10954                          600           59.40           18.84     31.7 
+
+RAMSET 1643W 1/4X3/4 THREAD STUD             100           23.69            6.29     26.6 
+DISCONTINUED - NO REPLACEMENT
+
+     Product: 10959                          100           23.69            6.29     26.6 
+
+RAMSET 34HSSS10 3/4-IN EMT CLIP/PIN          100           33.92           12.67     37.4 
+
+     Product: 10963                          100           33.92           12.67     37.4 
+
+RAMSET 4RS27 27CAL STRP LD YEL             1,200           96.00           18.00     18.8 
+
+     Product: 10970                        1,200           96.00           18.00     18.8 
+
+RAMSET PC12512G-6 6FT WIRE W/PINS            200           89.76           27.76     30.9 
+
+     Product: 15503                          200           89.76           27.76     30.9 
+
+RAYOVAC AL-AA ALKALINE AA BATTERY             30           12.75            3.53     27.7 
+
+     Product: 15506                           30           12.75            3.53     27.7 
+
+SHARPIE CHISEL TIP BLACK MARKER               12           13.43            2.94     21.9 
+
+     Product: 36431                           12           13.43            2.94     21.9 
+
+SIGN-DESIGN 7BMTLW 7G BLANK WHITE              1           27.42            6.00     21.9 
+
+     Product: 55892                            1           27.42            6.00     21.9 
+
+SIGN-DESIGN 8BW 8G BLANK WHITE                 1           31.34            6.86     21.9 
+
+     Product: 48114                            1           31.34            6.86     21.9 
+
+SQR-D QO120 SP-120/240V-20A CB                 7           57.54           15.54     27.0 
+
+     Product: 11224                            7           57.54           15.54     27.0 
+
+SQR-D QO2100 2P-120/240V-100A CB               1           63.02           17.02     27.0 
+
+     Product: 11231                            1           63.02           17.02     27.0 
+
+SQR-D QO230 2P-120/240V-30A CB                 1           17.81            4.81     27.0 
+
+     Product: 11235                            1           17.81            4.81     27.0 
+
+STI LCI300 10.10 OZ FIRE CAULK                16          128.07           23.11     18.0 
+
+     Product: 23068                           16          128.07           23.11     18.0 
+
+SYL 20MR16/FL35/C-12V/BAB 54306                3            9.04            3.70     40.9 
+
+     Product: 11332                            3            9.04            3.70     40.9 
+
+SYL 50MR16/WFL60/C-12V FNV 58328              10           31.76           13.96     44.0 
+
+     Product: 15613                           10           31.76           13.96     44.0 
+
+SYL CF18DT/E/IN/835/ECO 20877                  5           39.53            9.58     24.2 
+
+     Product: 11446                            5           39.53            9.58     24.2 
+
+SYL CF26DD/E/841/ECO 20669                     2           12.18            4.58     37.6 
+
+     Product: 11454                            2           12.18            4.58     37.6 
+
+SYL CF26DT/E/IN/835/ECO 20881                  9           62.96           22.44     35.6 
+
+     Product: 11458                            9           62.96           22.44     35.6 
+
+SYL CF32DT/E/IN/835/ECO 20885                  4           26.84            8.84     32.9 
+
+     Product: 11463                            4           26.84            8.84     32.9 
+
+SYL FO17/741/ECO FLUOR LAMP (21770)            2            5.97            1.50     25.1 
+
+     Product: 11567                            2            5.97            1.50     25.1 
+
+SYL FO25/841 RS OCTRON FLUOR LAMP              3           12.44           -3.27    -26.3 
+
+     Product: 15626                            3           12.44           -3.27    -26.3 
+
+SYL FO32/841/ECO FLOUR LAMP 21781              8           18.34            4.02     21.9 
+
+     Product: 11584                            8           18.34            4.02     21.9 
+
+SYL FP21/835/ECO FLUOR LAMP                    2           14.64            4.10     28.0 
+
+     Product: 11599                            2           14.64            4.10     28.0 
+
+SYL FP28/835/ECO FLUOR LAMP                    5           33.60           16.10     47.9 
+
+     Product: 11602                            5           33.60           16.10     47.9 
+
+TAYMAC MM410C 1 GANG RCPT ENCL                 1            8.08            4.33     53.6 
+
+     Product: 11666                            1            8.08            4.33     53.6 
+
+TOPAZ 1597 3X1000 RED ELEC LINE TAP            2          160.22           81.25     50.7 
+
+     Product: 4058                             2          160.22           81.25     50.7 
+
+TOPAZ BT0750 7IN BLK NYL CABLE TIE           200           11.32            4.01     35.4 
+
+     Product: 4055                           200           11.32            4.01     35.4 
+
+TOPAZ BT1150 11IN BLK NYL CBL TIE            200           21.72           10.37     47.7 
+
+     Product: 4041                           200           21.72           10.37     47.7 
+
+TOPAZ F13T5/CW-33 21IN COOL WHT                2            3.33            1.35     40.5 
+
+     Product: 34286                            2            3.33            1.35     40.5 
+
+TOPAZ NT0750 7IN WHT NYL CBL TIE             100            5.66            3.48     61.5 
+
+     Product: 4054                           100            5.66            3.48     61.5 
+
+U-HANK WIRE 18 GAGE                            8          315.28           98.10     31.1 
+
+     Product: 29630                            8          315.28           98.10     31.1 
+
+WAGO 773-164 PUSH-IN CONN 4-PORT             200           15.86            4.16     26.2 
+
+     Product: 11828                          200           15.86            4.16     26.2 
+
+WAGO 773-168 PUSH-IN CONN 8-PORT             100           11.34            2.05     18.1 
+
+     Product: 16611                          100           11.34            2.05     18.1 
+
+WAGO 873-902 LUMI-NUTS 2-POLE CONN           125           76.39           19.51     25.5 
+
+     Product: 38783                          125           76.39           19.51     25.5 
+
+WALKER RC4CTCBK 20A COMM CONN                 12          833.33          175.01     21.0 
+
+     Product: 49982                           12          833.33          175.01     21.0 
+
+WATT-STP BZ-150 120/277VAC PWR PACK            2           58.88           14.88     25.3 
+
+     Product: 15710                            2           58.88           14.88     25.3 
+
+WATT-STP LS-102 ON/OFF PH-SEN                  4          290.96           36.16     12.4 
+
+     Product: 50089                            4          290.96           36.16     12.4 
+
+WATT-STP PW-100-W 120/277V AUTO/MAN            1           47.87           10.47     21.9 
+
+     Product: 11941                            1           47.87           10.47     21.9 
+
+WATT-STP UT-300-3 24VDC OCC SNSR               6          598.72           37.12      6.2 
+
+     Product: 24208                            6          598.72           37.12      6.2 
+
+WATT-STP W-2000H 24V WH ULTRASONIC             2          170.97           31.97     18.7 
+
+     Product: 11937                            2          170.97           31.97     18.7 
+
+WATT-STP W-500A 24V WH ULTRASONIC              2          120.54           22.54     18.7 
+
+     Product: 11938                            2          120.54           22.54     18.7 
+
+WESTG GPS62 16/3 SPT-2 6-FT CORD               2            5.46            2.28     41.8 
+
+     Product: 3210                             2            5.46            2.28     41.8 
+
+WHITE CAP 203030 17OZ SLV UPSD DWN             2            8.96            1.96     21.9 
+
+     Product: 38484                            2            8.96            1.96     21.9 
+
+WIRE CU SOL BARE SD 6GA 315R                 315          178.71           67.46     37.7 
+
+     Product: 1073                           315          178.71           67.46     37.7 
+
+WIRE CU SOL MCAL 12/2 WG 250C              2,750        1,122.57          132.33     11.8 
+
+     Product: 258                          2,750        1,122.57          132.33     11.8 
+
+WIRE CU SOL MCAL 12/2 YL/GY/GR 250C          250          102.05           14.55     14.3 
+
+     Product: 19482                          250          102.05           14.55     14.3 
+
+WIRE CU SOL MCAL 12/3 WG 250C              1,250          904.73          108.71     12.0 
+
+     Product: 267                          1,250          904.73          108.71     12.0 
+
+WIRE CU SOL MCAL 12/4 WG 250C              1,000          967.55          150.82     15.6 
+
+     Product: 274                          1,000          967.55          150.82     15.6 
+
+WIRE CU SOL MCAL 12/4                        750          722.60           64.70      9.0 
+BN/OE/YW/GY/GN 250C
+
+     Product: 17481                          750          722.60           64.70      9.0 
+
+WIRE CU SOL THHN 12GA BLK 500R            13,000        1,530.53          266.22     17.4 
+
+     Product: 304                         13,000        1,530.53          266.22     17.4 
+
+WIRE CU SOL THHN 12GA BLU 500R             7,500          883.00          139.98     15.9 
+
+     Product: 308                          7,500          883.00          139.98     15.9 
+
+WIRE CU SOL THHN 12GA BRN 500R             3,000          353.20           19.82      5.6 
+
+     Product: 311                          3,000          353.20           19.82      5.6 
+
+WIRE CU SOL THHN 12GA GRN 500R            28,000        3,296.46          591.12     17.9 
+
+     Product: 314                         28,000        3,296.46          591.12     17.9 
+
+WIRE CU SOL THHN 12GA ORN 500R             2,000          235.48           13.28      5.6 
+
+     Product: 323                          2,000          235.48           13.28      5.6 
+
+WIRE CU SOL THHN 12GA PNK 500R            11,500        1,350.07          187.05     13.9 
+
+     Product: 326                         11,500        1,350.07          187.05     13.9 
+
+WIRE CU SOL THHN 12GA PUR 500R             9,500        1,114.61           96.89      8.7 
+
+     Product: 329                          9,500        1,114.61           96.89      8.7 
+
+WIRE CU SOL THHN 12GA RED 500R             4,500          529.82          120.04     22.7 
+
+     Product: 332                          4,500          529.82          120.04     22.7 
+
+WIRE CU SOL THHN 12GA WHT 500R            32,000        3,767.38          532.17     14.1 
+
+     Product: 337                         32,000        3,767.38          532.17     14.1 
+
+WIRE CU SOL THHN 12GA YEL 500R             4,500          529.80           30.14      5.7 
+
+     Product: 340                          4,500          529.80           30.14      5.7 
+
+WIRE CU STR LOVO 10/2 BLK 500R               500          286.72           66.22     23.1 
+
+     Product: 25486                          500          286.72           66.22     23.1 
+
+WIRE CU STR SOOW 12/3 BLK 1000R               70           55.16           13.72     24.9 
+
+     Product: 272                             70           55.16           13.72     24.9 
+
+WIRE CU STR TFFN 16GA BRN 500R               500           42.60           18.20     42.7 
+
+     Product: 406                            500           42.60           18.20     42.7 
+
+WIRE CU STR TFFN 18GA BLK 500R               500           25.20            7.46     29.6 
+
+     Product: 420                            500           25.20            7.46     29.6 
+
+WIRE CU STR THHN 10GA BLK 500R             4,000          843.66          117.16     13.9 
+
+     Product: 115                          4,000          843.66          117.16     13.9 
+
+WIRE CU STR THHN 10GA BLU 500R             5,000        1,054.56          204.50     19.4 
+
+     Product: 119                          5,000        1,054.56          204.50     19.4 
+
+WIRE CU STR THHN 10GA GRN 500R             5,500        1,160.02          185.31     16.0 
+
+     Product: 125                          5,500        1,160.02          185.31     16.0 
+
+WIRE CU STR THHN 10GA RED 500R             5,000        1,054.57          200.77     19.0 
+
+     Product: 141                          5,000        1,054.57          200.77     19.0 
+
+WIRE CU STR THHN 10GA WHT 500R             9,000        1,898.20          241.99     12.7 
+
+     Product: 145                          9,000        1,898.20          241.99     12.7 
+
+WIRE CU STR THHN 12GA BRN 500R               500           68.25           37.50     54.9 
+
+     Product: 313                            500           68.25           37.50     54.9 
+
+WIRE CU STR THHN 12GA ORN 500R               500           68.25           37.02     54.2 
+
+     Product: 325                            500           68.25           37.02     54.2 
+
+WIRE CU STR THHN 12GA WHT 500R             2,000          273.00           41.64     15.3 
+
+     Product: 339                          2,000          273.00           41.64     15.3 
+
+WIRE CU STR THHN 12GA YEL 500R               500           68.25           34.32     50.3 
+
+     Product: 342                            500           68.25           34.32     50.3 
+
+WIRE CU STR THHN 250 BLK 2500R               429        1,944.10          292.45     15.0 
+
+     Product: 562                            429        1,944.10          292.45     15.0 
+
+WIRE CU STR THHN 2GA BLK 5000R             1,080        1,317.44          158.45     12.0 
+
+     Product: 19366                        1,080        1,317.44          158.45     12.0 
+
+WIRE CU STR THHN 2GA GRN 2500R               143          174.44           27.29     15.6 
+
+     Product: 36491                          143          174.44           27.29     15.6 
+
+WIRE CU STR THHN 4GA BLK 5000R               380          293.37           62.33     21.2 
+
+     Product: 19023                          380          293.37           62.33     21.2 
+
+WIRE CU STR THHN 6GA BLK 5000R               600          294.10           44.63     15.2 
+
+     Product: 19204                          600          294.10           44.63     15.2 
+
+WIRE CU STR THHN 6GA GRN 5000R               120           58.82           12.68     21.6 
+
+     Product: 13543                          120           58.82           12.68     21.6 
+
+WIRE CU STR THHN 6GA RED 500R                500          245.08           27.37     11.2 
+
+     Product: 1086                           500          245.08           27.37     11.2 
+
+WIRE CU STR THHN 8GA BLK 500R                500          159.29            9.13      5.7 
+
+     Product: 1105                           500          159.29            9.13      5.7 
+
+WIRE CU STR THHN 8GA BRN 500R                500          178.40           39.42     22.1 
+
+     Product: 1107                           500          178.40           39.42     22.1 
+
+WIRE CU STR THHN 8GA GRN 5000R               420          134.95           29.13     21.6 
+
+     Product: 1110                           420          134.95           29.13     21.6 
+
+WIRE CU STR THHN 8GA GRN 500R                500          178.40           38.42     21.5 
+
+     Product: 1108                           500          178.40           38.42     21.5 
+
+WIRE CU STR THHN 8GA ORN 500R                500          178.40           48.41     27.1 
+
+     Product: 1112                           500          178.40           48.41     27.1 
+
+WIRE CU STR THHN 8GA YEL 500R                500          178.40           48.48     27.2 
+
+     Product: 1116                           500          178.40           48.48     27.2 
+
+WIRE-GRD 12124SCE SCR CVR BOX W/KO             6           64.68           10.51     16.2 
+
+     Product: 11967                            6           64.68           10.51     16.2 
+
+WIRE-GRD 12126NKRTE RT SCR CVR BOX             1           21.29            5.56     26.1 
+
+     Product: 11973                            1           21.29            5.56     26.1 
+
+WIRE-GRD 12126NKSCE SCR CVR BOX NKO            1           14.20            3.88     27.3 
+
+     Product: 11972                            1           14.20            3.88     27.3 
+
+WIRE-GRD 1224NKSCG SCR CVR GTR NO K            1           71.59           14.32     20.0 
+
+     Product: 11980                            1           71.59           14.32     20.0 
+
+WIRE-GRD 12E 12X12 GUTTER END FTG              2           23.63            4.73     20.0 
+
+     Product: 11983                            2           23.63            4.73     20.0 
+
+WIRE-GRD 16164E SCR CVR BOX                    4          128.70           25.74     20.0 
+
+     Product: 16473                            4          128.70           25.74     20.0 
+
+WIRE-GRD 18184NKRTSCE SCR CVR BOX              1           42.16            3.71      8.8 
+
+     Product: 11992                            1           42.16            3.71      8.8 
+
+WIRE-GRD 412NKSCG 4X4X12 SCR CV GTR            2           11.70            2.34     20.0 
+
+     Product: 27278                            2           11.70            2.34     20.0 
+
+WIRE-GRD 424NKSCG 4X4X24 SC CVR GTR            1            9.21            1.84     20.0 
+
+     Product: 12023                            1            9.21            1.84     20.0 
+
+WIRE-GRD 4FE 4X4 GUTTER END NO/KO              6           12.30            2.46     20.0 
+
+     Product: 12042                            6           12.30            2.46     20.0 
+
+WIRE-GRD 666NKSCE SCR CVR BOX NO KO           23          151.52           33.39     22.0 
+
+     Product: 12068                           23          151.52           33.39     22.0 
+
+WIRE-GRD 6C GUTTER COUPLING                    2            6.13            1.33     21.7 
+
+     Product: 12077                            2            6.13            1.33     21.7 
+
+WIRE-GRD 6L90C 90DEG ELBOW                     1           17.94            3.59     20.0 
+
+     Product: 12082                            1           17.94            3.59     20.0 
+
+WIRE-GRD 884SCE SCR CVR BOX W/KO              12           78.60           17.52     22.3 
+
+     Product: 12096                           12           78.60           17.52     22.3 
+
+WIRE-GRD 886NKSCE SCR CVR BOX                  1            9.43            2.18     23.1 
+
+     Product: 12101                            1            9.43            2.18     23.1 
+
+WIREMOLD G2010A2 3-IN ENTRANCE END             2            8.90            1.48     16.6 
+
+     Product: 12280                            2            8.90            1.48     16.6 
+
+WIREMOLD G4017 GRY INTERNAL ELBOW              2           24.48            4.64     19.0 
+
+     Product: 12312                            2           24.48            4.64     19.0 
+
+
+     Grand Totals                        244,332      126,840.08       20,068.15     15.8 
+
+------------------------------------------------------------------------------------------
